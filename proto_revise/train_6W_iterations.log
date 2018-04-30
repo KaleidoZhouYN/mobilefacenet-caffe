@@ -1,0 +1,2024 @@
+I0426 11:47:26.575821 10426 solver.cpp:293] Solving MobileFaceNet
+I0426 11:47:26.575845 10426 solver.cpp:294] Learning Rate Policy: multistep
+I0426 11:47:29.053313 10426 solver.cpp:239] Iteration 12000 (4843.91 iter/s, 2.47734s/100 iters), loss = 4.21756
+I0426 11:47:29.053344 10426 solver.cpp:258]     Train net output #0: accuracy = 0.359375
+I0426 11:47:29.053355 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.21756 (* 1 = 4.21756 loss)
+I0426 11:47:29.053365 10426 sgd_solver.cpp:112] Iteration 12000, lr = 0.1
+I0426 11:48:05.552384 10426 solver.cpp:239] Iteration 12100 (2.73978 iter/s, 36.4993s/100 iters), loss = 4.24263
+I0426 11:48:05.552471 10426 solver.cpp:258]     Train net output #0: accuracy = 0.359375
+I0426 11:48:05.552484 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.24263 (* 1 = 4.24263 loss)
+I0426 11:48:05.552495 10426 sgd_solver.cpp:112] Iteration 12100, lr = 0.1
+I0426 11:48:41.439800 10426 solver.cpp:239] Iteration 12200 (2.78648 iter/s, 35.8876s/100 iters), loss = 3.67359
+I0426 11:48:41.439914 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 11:48:41.439926 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.67359 (* 1 = 3.67359 loss)
+I0426 11:48:41.439937 10426 sgd_solver.cpp:112] Iteration 12200, lr = 0.1
+I0426 11:49:17.363046 10426 solver.cpp:239] Iteration 12300 (2.7837 iter/s, 35.9234s/100 iters), loss = 4.14311
+I0426 11:49:17.363145 10426 solver.cpp:258]     Train net output #0: accuracy = 0.320312
+I0426 11:49:17.363157 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.14311 (* 1 = 4.14311 loss)
+I0426 11:49:17.363168 10426 sgd_solver.cpp:112] Iteration 12300, lr = 0.1
+I0426 11:49:53.287832 10426 solver.cpp:239] Iteration 12400 (2.78358 iter/s, 35.925s/100 iters), loss = 3.92344
+I0426 11:49:53.287931 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 11:49:53.287943 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.92344 (* 1 = 3.92344 loss)
+I0426 11:49:53.287953 10426 sgd_solver.cpp:112] Iteration 12400, lr = 0.1
+I0426 11:50:29.209025 10426 solver.cpp:239] Iteration 12500 (2.78386 iter/s, 35.9214s/100 iters), loss = 4.35244
+I0426 11:50:29.210261 10426 solver.cpp:258]     Train net output #0: accuracy = 0.289062
+I0426 11:50:29.210273 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.35244 (* 1 = 4.35244 loss)
+I0426 11:50:29.210283 10426 sgd_solver.cpp:112] Iteration 12500, lr = 0.1
+I0426 11:51:05.121958 10426 solver.cpp:239] Iteration 12600 (2.78459 iter/s, 35.912s/100 iters), loss = 4.04997
+I0426 11:51:05.122059 10426 solver.cpp:258]     Train net output #0: accuracy = 0.351562
+I0426 11:51:05.122071 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.04997 (* 1 = 4.04997 loss)
+I0426 11:51:05.122082 10426 sgd_solver.cpp:112] Iteration 12600, lr = 0.1
+I0426 11:51:41.037564 10426 solver.cpp:239] Iteration 12700 (2.78429 iter/s, 35.9158s/100 iters), loss = 4.11628
+I0426 11:51:41.037657 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 11:51:41.037669 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.11628 (* 1 = 4.11628 loss)
+I0426 11:51:41.037681 10426 sgd_solver.cpp:112] Iteration 12700, lr = 0.1
+I0426 11:51:57.574940 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 11:52:16.953294 10426 solver.cpp:239] Iteration 12800 (2.78428 iter/s, 35.9159s/100 iters), loss = 4.29014
+I0426 11:52:16.953404 10426 solver.cpp:258]     Train net output #0: accuracy = 0.335938
+I0426 11:52:16.953416 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.29014 (* 1 = 4.29014 loss)
+I0426 11:52:16.953426 10426 sgd_solver.cpp:112] Iteration 12800, lr = 0.1
+I0426 11:52:52.868232 10426 solver.cpp:239] Iteration 12900 (2.78435 iter/s, 35.9151s/100 iters), loss = 3.9584
+I0426 11:52:52.868320 10426 solver.cpp:258]     Train net output #0: accuracy = 0.367188
+I0426 11:52:52.868332 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.9584 (* 1 = 3.9584 loss)
+I0426 11:52:52.868342 10426 sgd_solver.cpp:112] Iteration 12900, lr = 0.1
+I0426 11:53:28.775017 10426 solver.cpp:239] Iteration 13000 (2.78498 iter/s, 35.9069s/100 iters), loss = 4.01418
+I0426 11:53:28.775111 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 11:53:28.775123 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.01418 (* 1 = 4.01418 loss)
+I0426 11:53:28.775133 10426 sgd_solver.cpp:112] Iteration 13000, lr = 0.1
+I0426 11:54:04.697315 10426 solver.cpp:239] Iteration 13100 (2.78377 iter/s, 35.9225s/100 iters), loss = 3.68382
+I0426 11:54:04.697407 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 11:54:04.697419 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.68382 (* 1 = 3.68382 loss)
+I0426 11:54:04.697430 10426 sgd_solver.cpp:112] Iteration 13100, lr = 0.1
+I0426 11:54:40.614794 10426 solver.cpp:239] Iteration 13200 (2.78415 iter/s, 35.9176s/100 iters), loss = 4.08696
+I0426 11:54:40.614903 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 11:54:40.614917 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.08696 (* 1 = 4.08696 loss)
+I0426 11:54:40.614926 10426 sgd_solver.cpp:112] Iteration 13200, lr = 0.1
+I0426 11:55:16.554805 10426 solver.cpp:239] Iteration 13300 (2.7824 iter/s, 35.9401s/100 iters), loss = 4.12193
+I0426 11:55:16.554903 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 11:55:16.554916 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.12193 (* 1 = 4.12193 loss)
+I0426 11:55:16.554926 10426 sgd_solver.cpp:112] Iteration 13300, lr = 0.1
+I0426 11:55:52.499908 10426 solver.cpp:239] Iteration 13400 (2.78203 iter/s, 35.9449s/100 iters), loss = 4.36522
+I0426 11:55:52.500000 10426 solver.cpp:258]     Train net output #0: accuracy = 0.359375
+I0426 11:55:52.500013 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.36522 (* 1 = 4.36522 loss)
+I0426 11:55:52.500022 10426 sgd_solver.cpp:112] Iteration 13400, lr = 0.1
+I0426 11:56:27.005147 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 11:56:28.426862 10426 solver.cpp:239] Iteration 13500 (2.78346 iter/s, 35.9265s/100 iters), loss = 3.76433
+I0426 11:56:28.426893 10426 solver.cpp:258]     Train net output #0: accuracy = 0.335938
+I0426 11:56:28.426903 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.76433 (* 1 = 3.76433 loss)
+I0426 11:56:28.426913 10426 sgd_solver.cpp:112] Iteration 13500, lr = 0.1
+I0426 11:57:04.374963 10426 solver.cpp:239] Iteration 13600 (2.78182 iter/s, 35.9477s/100 iters), loss = 3.77025
+I0426 11:57:04.375057 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 11:57:04.375068 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.77025 (* 1 = 3.77025 loss)
+I0426 11:57:04.375078 10426 sgd_solver.cpp:112] Iteration 13600, lr = 0.1
+I0426 11:57:40.311714 10426 solver.cpp:239] Iteration 13700 (2.7827 iter/s, 35.9364s/100 iters), loss = 4.01053
+I0426 11:57:40.311808 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 11:57:40.311820 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.01053 (* 1 = 4.01053 loss)
+I0426 11:57:40.311830 10426 sgd_solver.cpp:112] Iteration 13700, lr = 0.1
+I0426 11:58:16.236701 10426 solver.cpp:239] Iteration 13800 (2.78361 iter/s, 35.9246s/100 iters), loss = 3.85685
+I0426 11:58:16.236819 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 11:58:16.236832 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.85685 (* 1 = 3.85685 loss)
+I0426 11:58:16.236842 10426 sgd_solver.cpp:112] Iteration 13800, lr = 0.1
+I0426 11:58:52.176518 10426 solver.cpp:239] Iteration 13900 (2.78246 iter/s, 35.9394s/100 iters), loss = 3.95001
+I0426 11:58:52.176615 10426 solver.cpp:258]     Train net output #0: accuracy = 0.351562
+I0426 11:58:52.176627 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.95001 (* 1 = 3.95001 loss)
+I0426 11:58:52.176637 10426 sgd_solver.cpp:112] Iteration 13900, lr = 0.1
+I0426 11:59:28.110126 10426 solver.cpp:239] Iteration 14000 (2.78293 iter/s, 35.9333s/100 iters), loss = 4.29185
+I0426 11:59:28.110224 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 11:59:28.110235 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.29185 (* 1 = 4.29185 loss)
+I0426 11:59:28.110245 10426 sgd_solver.cpp:112] Iteration 14000, lr = 0.1
+I0426 12:00:04.041054 10426 solver.cpp:239] Iteration 14100 (2.78314 iter/s, 35.9306s/100 iters), loss = 3.66458
+I0426 12:00:04.041146 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 12:00:04.041157 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.66458 (* 1 = 3.66458 loss)
+I0426 12:00:04.041167 10426 sgd_solver.cpp:112] Iteration 14100, lr = 0.1
+I0426 12:00:39.967164 10426 solver.cpp:239] Iteration 14200 (2.78351 iter/s, 35.9258s/100 iters), loss = 4.26613
+I0426 12:00:39.967258 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:00:39.967270 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.26613 (* 1 = 4.26613 loss)
+I0426 12:00:39.967279 10426 sgd_solver.cpp:112] Iteration 14200, lr = 0.1
+I0426 12:00:56.519608 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:01:15.904995 10426 solver.cpp:239] Iteration 14300 (2.7826 iter/s, 35.9376s/100 iters), loss = 4.93044
+I0426 12:01:15.905093 10426 solver.cpp:258]     Train net output #0: accuracy = 0.34375
+I0426 12:01:15.905105 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.93044 (* 1 = 4.93044 loss)
+I0426 12:01:15.905115 10426 sgd_solver.cpp:112] Iteration 14300, lr = 0.1
+I0426 12:01:52.241755 10426 solver.cpp:239] Iteration 14400 (2.75205 iter/s, 36.3365s/100 iters), loss = 4.06805
+I0426 12:01:52.241969 10426 solver.cpp:258]     Train net output #0: accuracy = 0.289062
+I0426 12:01:52.242014 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.06805 (* 1 = 4.06805 loss)
+I0426 12:01:52.242053 10426 sgd_solver.cpp:112] Iteration 14400, lr = 0.1
+I0426 12:02:28.990016 10426 solver.cpp:239] Iteration 14500 (2.72124 iter/s, 36.7479s/100 iters), loss = 4.40866
+I0426 12:02:28.990119 10426 solver.cpp:258]     Train net output #0: accuracy = 0.367188
+I0426 12:02:28.990131 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.40866 (* 1 = 4.40866 loss)
+I0426 12:02:28.990141 10426 sgd_solver.cpp:112] Iteration 14500, lr = 0.1
+I0426 12:03:04.913568 10426 solver.cpp:239] Iteration 14600 (2.7837 iter/s, 35.9234s/100 iters), loss = 3.78264
+I0426 12:03:04.913661 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:03:04.913673 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.78264 (* 1 = 3.78264 loss)
+I0426 12:03:04.913683 10426 sgd_solver.cpp:112] Iteration 14600, lr = 0.1
+I0426 12:03:40.846704 10426 solver.cpp:239] Iteration 14700 (2.78296 iter/s, 35.933s/100 iters), loss = 3.41296
+I0426 12:03:40.846793 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 12:03:40.846806 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.41296 (* 1 = 3.41296 loss)
+I0426 12:03:40.846815 10426 sgd_solver.cpp:112] Iteration 14700, lr = 0.1
+I0426 12:04:16.776046 10426 solver.cpp:239] Iteration 14800 (2.78325 iter/s, 35.9292s/100 iters), loss = 3.79947
+I0426 12:04:16.776171 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:04:16.776185 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.79947 (* 1 = 3.79947 loss)
+I0426 12:04:16.776195 10426 sgd_solver.cpp:112] Iteration 14800, lr = 0.1
+I0426 12:04:52.707995 10426 solver.cpp:239] Iteration 14900 (2.78305 iter/s, 35.9318s/100 iters), loss = 4.0442
+I0426 12:04:52.708099 10426 solver.cpp:258]     Train net output #0: accuracy = 0.367188
+I0426 12:04:52.708112 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.0442 (* 1 = 4.0442 loss)
+I0426 12:04:52.708122 10426 sgd_solver.cpp:112] Iteration 14900, lr = 0.1
+I0426 12:05:27.576442 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:05:28.644163 10426 solver.cpp:239] Iteration 15000 (2.78272 iter/s, 35.936s/100 iters), loss = 3.99765
+I0426 12:05:28.644194 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 12:05:28.644204 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.99765 (* 1 = 3.99765 loss)
+I0426 12:05:28.644213 10426 sgd_solver.cpp:112] Iteration 15000, lr = 0.1
+I0426 12:06:05.769464 10426 solver.cpp:239] Iteration 15100 (2.69358 iter/s, 37.1252s/100 iters), loss = 4.05663
+I0426 12:06:05.769668 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:06:05.769714 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.05663 (* 1 = 4.05663 loss)
+I0426 12:06:05.769753 10426 sgd_solver.cpp:112] Iteration 15100, lr = 0.1
+I0426 12:06:41.773329 10426 solver.cpp:239] Iteration 15200 (2.7775 iter/s, 36.0037s/100 iters), loss = 3.34372
+I0426 12:06:41.774847 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 12:06:41.774859 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.34372 (* 1 = 3.34372 loss)
+I0426 12:06:41.774868 10426 sgd_solver.cpp:112] Iteration 15200, lr = 0.1
+I0426 12:07:17.704428 10426 solver.cpp:239] Iteration 15300 (2.78322 iter/s, 35.9296s/100 iters), loss = 3.4844
+I0426 12:07:17.704511 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 12:07:17.704524 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.4844 (* 1 = 3.4844 loss)
+I0426 12:07:17.704532 10426 sgd_solver.cpp:112] Iteration 15300, lr = 0.1
+I0426 12:07:56.483162 10426 solver.cpp:239] Iteration 15400 (2.57874 iter/s, 38.7787s/100 iters), loss = 3.69626
+I0426 12:07:56.483254 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 12:07:56.483268 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.69626 (* 1 = 3.69626 loss)
+I0426 12:07:56.483279 10426 sgd_solver.cpp:112] Iteration 15400, lr = 0.1
+I0426 12:08:33.431282 10426 solver.cpp:239] Iteration 15500 (2.70663 iter/s, 36.9462s/100 iters), loss = 3.71912
+I0426 12:08:33.431380 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 12:08:33.431392 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.71912 (* 1 = 3.71912 loss)
+I0426 12:08:33.431406 10426 sgd_solver.cpp:112] Iteration 15500, lr = 0.1
+I0426 12:09:09.368886 10426 solver.cpp:239] Iteration 15600 (2.78261 iter/s, 35.9375s/100 iters), loss = 3.97974
+I0426 12:09:09.368995 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 12:09:09.369007 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.97974 (* 1 = 3.97974 loss)
+I0426 12:09:09.369020 10426 sgd_solver.cpp:112] Iteration 15600, lr = 0.1
+I0426 12:09:45.318150 10426 solver.cpp:239] Iteration 15700 (2.7817 iter/s, 35.9492s/100 iters), loss = 3.38828
+I0426 12:09:45.318241 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 12:09:45.318254 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.38828 (* 1 = 3.38828 loss)
+I0426 12:09:45.318271 10426 sgd_solver.cpp:112] Iteration 15700, lr = 0.1
+I0426 12:10:02.229595 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:10:21.267874 10426 solver.cpp:239] Iteration 15800 (2.78167 iter/s, 35.9497s/100 iters), loss = 4.26231
+I0426 12:10:21.267979 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:10:21.267992 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.26231 (* 1 = 4.26231 loss)
+I0426 12:10:21.268002 10426 sgd_solver.cpp:112] Iteration 15800, lr = 0.1
+I0426 12:10:57.226125 10426 solver.cpp:239] Iteration 15900 (2.78101 iter/s, 35.9582s/100 iters), loss = 4.16425
+I0426 12:10:57.226239 10426 solver.cpp:258]     Train net output #0: accuracy = 0.335938
+I0426 12:10:57.226253 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.16425 (* 1 = 4.16425 loss)
+I0426 12:10:57.226263 10426 sgd_solver.cpp:112] Iteration 15900, lr = 0.1
+I0426 12:11:32.823808 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_16000.caffemodel
+I0426 12:11:32.860641 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_16000.solverstate
+I0426 12:11:33.231072 10426 solver.cpp:239] Iteration 16000 (2.7774 iter/s, 36.0049s/100 iters), loss = 4.21267
+I0426 12:11:33.231102 10426 solver.cpp:258]     Train net output #0: accuracy = 0.328125
+I0426 12:11:33.231112 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.21267 (* 1 = 4.21267 loss)
+I0426 12:11:33.231122 10426 sgd_solver.cpp:112] Iteration 16000, lr = 0.1
+I0426 12:12:09.168591 10426 solver.cpp:239] Iteration 16100 (2.7826 iter/s, 35.9376s/100 iters), loss = 4.1441
+I0426 12:12:09.168682 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 12:12:09.168694 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.1441 (* 1 = 4.1441 loss)
+I0426 12:12:09.168704 10426 sgd_solver.cpp:112] Iteration 16100, lr = 0.1
+I0426 12:12:45.093534 10426 solver.cpp:239] Iteration 16200 (2.78358 iter/s, 35.9249s/100 iters), loss = 3.49077
+I0426 12:12:45.095204 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 12:12:45.095216 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.49077 (* 1 = 3.49077 loss)
+I0426 12:12:45.095227 10426 sgd_solver.cpp:112] Iteration 16200, lr = 0.1
+I0426 12:13:21.036499 10426 solver.cpp:239] Iteration 16300 (2.78231 iter/s, 35.9414s/100 iters), loss = 4.03791
+I0426 12:13:21.036593 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:13:21.036605 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.03791 (* 1 = 4.03791 loss)
+I0426 12:13:21.036615 10426 sgd_solver.cpp:112] Iteration 16300, lr = 0.1
+I0426 12:13:56.976716 10426 solver.cpp:239] Iteration 16400 (2.7824 iter/s, 35.9402s/100 iters), loss = 3.70469
+I0426 12:13:56.976807 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 12:13:56.976819 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.70469 (* 1 = 3.70469 loss)
+I0426 12:13:56.976828 10426 sgd_solver.cpp:112] Iteration 16400, lr = 0.1
+I0426 12:14:31.865121 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:14:32.923409 10426 solver.cpp:239] Iteration 16500 (2.7819 iter/s, 35.9467s/100 iters), loss = 4.14729
+I0426 12:14:32.923441 10426 solver.cpp:258]     Train net output #0: accuracy = 0.296875
+I0426 12:14:32.923451 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.14729 (* 1 = 4.14729 loss)
+I0426 12:14:32.923460 10426 sgd_solver.cpp:112] Iteration 16500, lr = 0.1
+I0426 12:15:08.871692 10426 solver.cpp:239] Iteration 16600 (2.78177 iter/s, 35.9483s/100 iters), loss = 3.39961
+I0426 12:15:08.871775 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:15:08.871788 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.39961 (* 1 = 3.39961 loss)
+I0426 12:15:08.871798 10426 sgd_solver.cpp:112] Iteration 16600, lr = 0.1
+I0426 12:15:44.828385 10426 solver.cpp:239] Iteration 16700 (2.78112 iter/s, 35.9567s/100 iters), loss = 3.74077
+I0426 12:15:44.828485 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:15:44.828498 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.74077 (* 1 = 3.74077 loss)
+I0426 12:15:44.828510 10426 sgd_solver.cpp:112] Iteration 16700, lr = 0.1
+I0426 12:16:20.770750 10426 solver.cpp:239] Iteration 16800 (2.78223 iter/s, 35.9424s/100 iters), loss = 4.05827
+I0426 12:16:20.770884 10426 solver.cpp:258]     Train net output #0: accuracy = 0.351562
+I0426 12:16:20.770896 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.05827 (* 1 = 4.05827 loss)
+I0426 12:16:20.770906 10426 sgd_solver.cpp:112] Iteration 16800, lr = 0.1
+I0426 12:16:56.706558 10426 solver.cpp:239] Iteration 16900 (2.78274 iter/s, 35.9358s/100 iters), loss = 4.10819
+I0426 12:16:56.706660 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:16:56.706671 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.10819 (* 1 = 4.10819 loss)
+I0426 12:16:56.706682 10426 sgd_solver.cpp:112] Iteration 16900, lr = 0.1
+I0426 12:17:32.651310 10426 solver.cpp:239] Iteration 17000 (2.78205 iter/s, 35.9448s/100 iters), loss = 3.65484
+I0426 12:17:32.651415 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 12:17:32.651427 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.65484 (* 1 = 3.65484 loss)
+I0426 12:17:32.651437 10426 sgd_solver.cpp:112] Iteration 17000, lr = 0.1
+I0426 12:18:08.605609 10426 solver.cpp:239] Iteration 17100 (2.78131 iter/s, 35.9543s/100 iters), loss = 4.04881
+I0426 12:18:08.605716 10426 solver.cpp:258]     Train net output #0: accuracy = 0.34375
+I0426 12:18:08.605728 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.04881 (* 1 = 4.04881 loss)
+I0426 12:18:08.605738 10426 sgd_solver.cpp:112] Iteration 17100, lr = 0.1
+I0426 12:18:44.564688 10426 solver.cpp:239] Iteration 17200 (2.78094 iter/s, 35.9591s/100 iters), loss = 3.6329
+I0426 12:18:44.564784 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:18:44.564795 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.6329 (* 1 = 3.6329 loss)
+I0426 12:18:44.564805 10426 sgd_solver.cpp:112] Iteration 17200, lr = 0.1
+I0426 12:19:01.827383 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:19:20.501837 10426 solver.cpp:239] Iteration 17300 (2.78263 iter/s, 35.9372s/100 iters), loss = 3.87209
+I0426 12:19:20.501920 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 12:19:20.501932 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.87209 (* 1 = 3.87209 loss)
+I0426 12:19:20.501942 10426 sgd_solver.cpp:112] Iteration 17300, lr = 0.1
+I0426 12:19:56.454654 10426 solver.cpp:239] Iteration 17400 (2.78142 iter/s, 35.9529s/100 iters), loss = 3.82228
+I0426 12:19:56.454754 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:19:56.454767 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.82228 (* 1 = 3.82228 loss)
+I0426 12:19:56.454777 10426 sgd_solver.cpp:112] Iteration 17400, lr = 0.1
+I0426 12:20:32.405557 10426 solver.cpp:239] Iteration 17500 (2.78157 iter/s, 35.9509s/100 iters), loss = 3.44515
+I0426 12:20:32.405644 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 12:20:32.405658 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.44515 (* 1 = 3.44515 loss)
+I0426 12:20:32.405666 10426 sgd_solver.cpp:112] Iteration 17500, lr = 0.1
+I0426 12:21:08.360204 10426 solver.cpp:239] Iteration 17600 (2.78128 iter/s, 35.9547s/100 iters), loss = 3.68472
+I0426 12:21:08.362087 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:21:08.362098 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.68472 (* 1 = 3.68472 loss)
+I0426 12:21:08.362108 10426 sgd_solver.cpp:112] Iteration 17600, lr = 0.1
+I0426 12:21:44.314936 10426 solver.cpp:239] Iteration 17700 (2.78141 iter/s, 35.953s/100 iters), loss = 3.33166
+I0426 12:21:44.315026 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:21:44.315037 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.33166 (* 1 = 3.33166 loss)
+I0426 12:21:44.315047 10426 sgd_solver.cpp:112] Iteration 17700, lr = 0.1
+I0426 12:22:20.259917 10426 solver.cpp:239] Iteration 17800 (2.78203 iter/s, 35.945s/100 iters), loss = 3.7171
+I0426 12:22:20.260022 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 12:22:20.260041 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.7171 (* 1 = 3.7171 loss)
+I0426 12:22:20.260056 10426 sgd_solver.cpp:112] Iteration 17800, lr = 0.1
+I0426 12:22:56.198783 10426 solver.cpp:239] Iteration 17900 (2.7825 iter/s, 35.9389s/100 iters), loss = 3.72449
+I0426 12:22:56.198894 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:22:56.198906 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.72449 (* 1 = 3.72449 loss)
+I0426 12:22:56.198916 10426 sgd_solver.cpp:112] Iteration 17900, lr = 0.1
+I0426 12:23:31.452286 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:23:32.154875 10426 solver.cpp:239] Iteration 18000 (2.78117 iter/s, 35.9561s/100 iters), loss = 3.65832
+I0426 12:23:32.154907 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 12:23:32.154918 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.65832 (* 1 = 3.65832 loss)
+I0426 12:23:32.154927 10426 sgd_solver.cpp:112] Iteration 18000, lr = 0.1
+I0426 12:24:08.111537 10426 solver.cpp:239] Iteration 18100 (2.78112 iter/s, 35.9568s/100 iters), loss = 3.81983
+I0426 12:24:08.112061 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 12:24:08.112073 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.81983 (* 1 = 3.81983 loss)
+I0426 12:24:08.112083 10426 sgd_solver.cpp:112] Iteration 18100, lr = 0.1
+I0426 12:24:44.061856 10426 solver.cpp:239] Iteration 18200 (2.78165 iter/s, 35.9499s/100 iters), loss = 4.0679
+I0426 12:24:44.061939 10426 solver.cpp:258]     Train net output #0: accuracy = 0.34375
+I0426 12:24:44.061950 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.0679 (* 1 = 4.0679 loss)
+I0426 12:24:44.061960 10426 sgd_solver.cpp:112] Iteration 18200, lr = 0.1
+I0426 12:25:20.011000 10426 solver.cpp:239] Iteration 18300 (2.7817 iter/s, 35.9492s/100 iters), loss = 3.90137
+I0426 12:25:20.011090 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:25:20.011102 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.90137 (* 1 = 3.90137 loss)
+I0426 12:25:20.011112 10426 sgd_solver.cpp:112] Iteration 18300, lr = 0.1
+I0426 12:25:55.961320 10426 solver.cpp:239] Iteration 18400 (2.78161 iter/s, 35.9504s/100 iters), loss = 4.22691
+I0426 12:25:55.961411 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 12:25:55.961423 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.22691 (* 1 = 4.22691 loss)
+I0426 12:25:55.961433 10426 sgd_solver.cpp:112] Iteration 18400, lr = 0.1
+I0426 12:26:31.904259 10426 solver.cpp:239] Iteration 18500 (2.78218 iter/s, 35.943s/100 iters), loss = 3.54208
+I0426 12:26:31.904358 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:26:31.904371 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.54208 (* 1 = 3.54208 loss)
+I0426 12:26:31.904381 10426 sgd_solver.cpp:112] Iteration 18500, lr = 0.1
+I0426 12:27:07.836150 10426 solver.cpp:239] Iteration 18600 (2.78304 iter/s, 35.9319s/100 iters), loss = 3.40935
+I0426 12:27:07.836228 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:27:07.836241 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.40935 (* 1 = 3.40935 loss)
+I0426 12:27:07.836251 10426 sgd_solver.cpp:112] Iteration 18600, lr = 0.1
+I0426 12:27:43.797885 10426 solver.cpp:239] Iteration 18700 (2.78073 iter/s, 35.9618s/100 iters), loss = 3.60111
+I0426 12:27:43.797979 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 12:27:43.797991 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.60111 (* 1 = 3.60111 loss)
+I0426 12:27:43.798002 10426 sgd_solver.cpp:112] Iteration 18700, lr = 0.1
+I0426 12:28:01.064013 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:28:19.723388 10426 solver.cpp:239] Iteration 18800 (2.78353 iter/s, 35.9255s/100 iters), loss = 3.39403
+I0426 12:28:19.723484 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 12:28:19.723495 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.39403 (* 1 = 3.39403 loss)
+I0426 12:28:19.723505 10426 sgd_solver.cpp:112] Iteration 18800, lr = 0.1
+I0426 12:28:55.618458 10426 solver.cpp:239] Iteration 18900 (2.78589 iter/s, 35.8951s/100 iters), loss = 3.5281
+I0426 12:28:55.618568 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:28:55.618582 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.5281 (* 1 = 3.5281 loss)
+I0426 12:28:55.618592 10426 sgd_solver.cpp:112] Iteration 18900, lr = 0.1
+I0426 12:29:31.500073 10426 solver.cpp:239] Iteration 19000 (2.78694 iter/s, 35.8816s/100 iters), loss = 3.40479
+I0426 12:29:31.500160 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:29:31.500172 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.40479 (* 1 = 3.40479 loss)
+I0426 12:29:31.500182 10426 sgd_solver.cpp:112] Iteration 19000, lr = 0.1
+I0426 12:30:07.408978 10426 solver.cpp:239] Iteration 19100 (2.78481 iter/s, 35.9091s/100 iters), loss = 3.64401
+I0426 12:30:07.409229 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:30:07.409242 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.64401 (* 1 = 3.64401 loss)
+I0426 12:30:07.409252 10426 sgd_solver.cpp:112] Iteration 19100, lr = 0.1
+I0426 12:30:43.309566 10426 solver.cpp:239] Iteration 19200 (2.78547 iter/s, 35.9006s/100 iters), loss = 3.77968
+I0426 12:30:43.309654 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:30:43.309666 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.77968 (* 1 = 3.77968 loss)
+I0426 12:30:43.309675 10426 sgd_solver.cpp:112] Iteration 19200, lr = 0.1
+I0426 12:31:19.240473 10426 solver.cpp:239] Iteration 19300 (2.7831 iter/s, 35.9311s/100 iters), loss = 3.3086
+I0426 12:31:19.240568 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 12:31:19.240581 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.3086 (* 1 = 3.3086 loss)
+I0426 12:31:19.240589 10426 sgd_solver.cpp:112] Iteration 19300, lr = 0.1
+I0426 12:31:55.182386 10426 solver.cpp:239] Iteration 19400 (2.78225 iter/s, 35.9421s/100 iters), loss = 4.22967
+I0426 12:31:55.182478 10426 solver.cpp:258]     Train net output #0: accuracy = 0.335938
+I0426 12:31:55.182490 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.22967 (* 1 = 4.22967 loss)
+I0426 12:31:55.182502 10426 sgd_solver.cpp:112] Iteration 19400, lr = 0.1
+I0426 12:32:30.782287 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:32:31.131841 10426 solver.cpp:239] Iteration 19500 (2.78167 iter/s, 35.9496s/100 iters), loss = 3.96607
+I0426 12:32:31.131872 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:32:31.131882 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.96607 (* 1 = 3.96607 loss)
+I0426 12:32:31.131892 10426 sgd_solver.cpp:112] Iteration 19500, lr = 0.1
+I0426 12:33:07.083012 10426 solver.cpp:239] Iteration 19600 (2.78153 iter/s, 35.9514s/100 iters), loss = 3.37651
+I0426 12:33:07.083120 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 12:33:07.083133 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.37651 (* 1 = 3.37651 loss)
+I0426 12:33:07.083143 10426 sgd_solver.cpp:112] Iteration 19600, lr = 0.1
+I0426 12:33:43.029537 10426 solver.cpp:239] Iteration 19700 (2.7819 iter/s, 35.9467s/100 iters), loss = 3.69146
+I0426 12:33:43.029639 10426 solver.cpp:258]     Train net output #0: accuracy = 0.375
+I0426 12:33:43.029651 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.69146 (* 1 = 3.69146 loss)
+I0426 12:33:43.029661 10426 sgd_solver.cpp:112] Iteration 19700, lr = 0.1
+I0426 12:34:18.971868 10426 solver.cpp:239] Iteration 19800 (2.78222 iter/s, 35.9425s/100 iters), loss = 3.14926
+I0426 12:34:18.975241 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 12:34:18.975253 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14926 (* 1 = 3.14926 loss)
+I0426 12:34:18.975262 10426 sgd_solver.cpp:112] Iteration 19800, lr = 0.1
+I0426 12:34:54.916486 10426 solver.cpp:239] Iteration 19900 (2.7823 iter/s, 35.9415s/100 iters), loss = 3.01516
+I0426 12:34:54.916600 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 12:34:54.916613 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.01516 (* 1 = 3.01516 loss)
+I0426 12:34:54.916623 10426 sgd_solver.cpp:112] Iteration 19900, lr = 0.1
+I0426 12:35:30.498632 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_20000.caffemodel
+I0426 12:35:30.529333 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_20000.solverstate
+I0426 12:35:30.896466 10426 solver.cpp:239] Iteration 20000 (2.77931 iter/s, 35.9801s/100 iters), loss = 3.32486
+I0426 12:35:30.896497 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 12:35:30.896507 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.32486 (* 1 = 3.32486 loss)
+I0426 12:35:30.896517 10426 sgd_solver.cpp:112] Iteration 20000, lr = 0.1
+I0426 12:36:06.839601 10426 solver.cpp:239] Iteration 20100 (2.78216 iter/s, 35.9433s/100 iters), loss = 3.14276
+I0426 12:36:06.839690 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 12:36:06.839702 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14276 (* 1 = 3.14276 loss)
+I0426 12:36:06.839713 10426 sgd_solver.cpp:112] Iteration 20100, lr = 0.1
+I0426 12:36:42.769585 10426 solver.cpp:239] Iteration 20200 (2.78318 iter/s, 35.9301s/100 iters), loss = 4.01223
+I0426 12:36:42.769678 10426 solver.cpp:258]     Train net output #0: accuracy = 0.390625
+I0426 12:36:42.769691 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.01223 (* 1 = 4.01223 loss)
+I0426 12:36:42.769701 10426 sgd_solver.cpp:112] Iteration 20200, lr = 0.1
+I0426 12:37:00.397516 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:37:18.709292 10426 solver.cpp:239] Iteration 20300 (2.78243 iter/s, 35.9398s/100 iters), loss = 3.59545
+I0426 12:37:18.709383 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 12:37:18.709395 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.59545 (* 1 = 3.59545 loss)
+I0426 12:37:18.709406 10426 sgd_solver.cpp:112] Iteration 20300, lr = 0.1
+I0426 12:37:54.666405 10426 solver.cpp:239] Iteration 20400 (2.78108 iter/s, 35.9572s/100 iters), loss = 3.25946
+I0426 12:37:54.666507 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 12:37:54.666518 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.25946 (* 1 = 3.25946 loss)
+I0426 12:37:54.666528 10426 sgd_solver.cpp:112] Iteration 20400, lr = 0.1
+I0426 12:38:30.620069 10426 solver.cpp:239] Iteration 20500 (2.78135 iter/s, 35.9538s/100 iters), loss = 3.30248
+I0426 12:38:30.620163 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 12:38:30.620175 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.30248 (* 1 = 3.30248 loss)
+I0426 12:38:30.620187 10426 sgd_solver.cpp:112] Iteration 20500, lr = 0.1
+I0426 12:39:06.559968 10426 solver.cpp:239] Iteration 20600 (2.78241 iter/s, 35.94s/100 iters), loss = 4.57617
+I0426 12:39:06.560072 10426 solver.cpp:258]     Train net output #0: accuracy = 0.351562
+I0426 12:39:06.560086 10426 solver.cpp:258]     Train net output #1: softmax_loss = 4.57617 (* 1 = 4.57617 loss)
+I0426 12:39:06.560096 10426 sgd_solver.cpp:112] Iteration 20600, lr = 0.1
+I0426 12:39:42.493952 10426 solver.cpp:239] Iteration 20700 (2.78287 iter/s, 35.9341s/100 iters), loss = 3.44633
+I0426 12:39:42.494040 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 12:39:42.494053 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.44633 (* 1 = 3.44633 loss)
+I0426 12:39:42.494063 10426 sgd_solver.cpp:112] Iteration 20700, lr = 0.1
+I0426 12:40:18.432271 10426 solver.cpp:239] Iteration 20800 (2.78254 iter/s, 35.9384s/100 iters), loss = 3.42051
+I0426 12:40:18.432427 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:40:18.432440 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.42051 (* 1 = 3.42051 loss)
+I0426 12:40:18.432449 10426 sgd_solver.cpp:112] Iteration 20800, lr = 0.1
+I0426 12:40:54.376013 10426 solver.cpp:239] Iteration 20900 (2.78212 iter/s, 35.9438s/100 iters), loss = 3.84888
+I0426 12:40:54.376143 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:40:54.376157 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.84888 (* 1 = 3.84888 loss)
+I0426 12:40:54.376168 10426 sgd_solver.cpp:112] Iteration 20900, lr = 0.1
+I0426 12:41:29.979714 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:41:30.316984 10426 solver.cpp:239] Iteration 21000 (2.78233 iter/s, 35.9411s/100 iters), loss = 3.63278
+I0426 12:41:30.317013 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:41:30.317023 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.63278 (* 1 = 3.63278 loss)
+I0426 12:41:30.317032 10426 sgd_solver.cpp:112] Iteration 21000, lr = 0.1
+I0426 12:42:06.263298 10426 solver.cpp:239] Iteration 21100 (2.78191 iter/s, 35.9465s/100 iters), loss = 3.36805
+I0426 12:42:06.263393 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 12:42:06.263406 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.36805 (* 1 = 3.36805 loss)
+I0426 12:42:06.263415 10426 sgd_solver.cpp:112] Iteration 21100, lr = 0.1
+I0426 12:42:42.212834 10426 solver.cpp:239] Iteration 21200 (2.78167 iter/s, 35.9496s/100 iters), loss = 3.65067
+I0426 12:42:42.212949 10426 solver.cpp:258]     Train net output #0: accuracy = 0.367188
+I0426 12:42:42.212961 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.65067 (* 1 = 3.65067 loss)
+I0426 12:42:42.212971 10426 sgd_solver.cpp:112] Iteration 21200, lr = 0.1
+I0426 12:43:18.158543 10426 solver.cpp:239] Iteration 21300 (2.78197 iter/s, 35.9458s/100 iters), loss = 3.49985
+I0426 12:43:18.158633 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:43:18.158645 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.49985 (* 1 = 3.49985 loss)
+I0426 12:43:18.158655 10426 sgd_solver.cpp:112] Iteration 21300, lr = 0.1
+I0426 12:43:54.105177 10426 solver.cpp:239] Iteration 21400 (2.78189 iter/s, 35.9467s/100 iters), loss = 3.65187
+I0426 12:43:54.105278 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5
+I0426 12:43:54.105289 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.65187 (* 1 = 3.65187 loss)
+I0426 12:43:54.105298 10426 sgd_solver.cpp:112] Iteration 21400, lr = 0.1
+I0426 12:44:30.051722 10426 solver.cpp:239] Iteration 21500 (2.7819 iter/s, 35.9466s/100 iters), loss = 3.06465
+I0426 12:44:30.051808 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:44:30.051820 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.06465 (* 1 = 3.06465 loss)
+I0426 12:44:30.051829 10426 sgd_solver.cpp:112] Iteration 21500, lr = 0.1
+I0426 12:45:05.987123 10426 solver.cpp:239] Iteration 21600 (2.78276 iter/s, 35.9355s/100 iters), loss = 3.18218
+I0426 12:45:05.987224 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 12:45:05.987236 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.18218 (* 1 = 3.18218 loss)
+I0426 12:45:05.987246 10426 sgd_solver.cpp:112] Iteration 21600, lr = 0.1
+I0426 12:45:41.936065 10426 solver.cpp:239] Iteration 21700 (2.78172 iter/s, 35.949s/100 iters), loss = 3.79041
+I0426 12:45:41.936147 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:45:41.936159 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.79041 (* 1 = 3.79041 loss)
+I0426 12:45:41.936169 10426 sgd_solver.cpp:112] Iteration 21700, lr = 0.1
+I0426 12:45:59.925175 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:46:17.889899 10426 solver.cpp:239] Iteration 21800 (2.78134 iter/s, 35.9539s/100 iters), loss = 3.88387
+I0426 12:46:17.889997 10426 solver.cpp:258]     Train net output #0: accuracy = 0.40625
+I0426 12:46:17.890008 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.88387 (* 1 = 3.88387 loss)
+I0426 12:46:17.890018 10426 sgd_solver.cpp:112] Iteration 21800, lr = 0.1
+I0426 12:46:53.822942 10426 solver.cpp:239] Iteration 21900 (2.78295 iter/s, 35.9331s/100 iters), loss = 3.67173
+I0426 12:46:53.823047 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 12:46:53.823060 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.67173 (* 1 = 3.67173 loss)
+I0426 12:46:53.823071 10426 sgd_solver.cpp:112] Iteration 21900, lr = 0.1
+I0426 12:47:29.768088 10426 solver.cpp:239] Iteration 22000 (2.78201 iter/s, 35.9452s/100 iters), loss = 3.85878
+I0426 12:47:29.768224 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 12:47:29.768235 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.85878 (* 1 = 3.85878 loss)
+I0426 12:47:29.768245 10426 sgd_solver.cpp:112] Iteration 22000, lr = 0.1
+I0426 12:48:05.670683 10426 solver.cpp:239] Iteration 22100 (2.78531 iter/s, 35.9026s/100 iters), loss = 3.94665
+I0426 12:48:05.670769 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:48:05.670781 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.94665 (* 1 = 3.94665 loss)
+I0426 12:48:05.670790 10426 sgd_solver.cpp:112] Iteration 22100, lr = 0.1
+I0426 12:48:41.545065 10426 solver.cpp:239] Iteration 22200 (2.7875 iter/s, 35.8745s/100 iters), loss = 3.52119
+I0426 12:48:41.545152 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:48:41.545164 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.52119 (* 1 = 3.52119 loss)
+I0426 12:48:41.545173 10426 sgd_solver.cpp:112] Iteration 22200, lr = 0.1
+I0426 12:49:17.447989 10426 solver.cpp:239] Iteration 22300 (2.78528 iter/s, 35.903s/100 iters), loss = 3.4846
+I0426 12:49:17.451840 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:49:17.451853 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.4846 (* 1 = 3.4846 loss)
+I0426 12:49:17.451862 10426 sgd_solver.cpp:112] Iteration 22300, lr = 0.1
+I0426 12:49:53.349303 10426 solver.cpp:239] Iteration 22400 (2.7857 iter/s, 35.8976s/100 iters), loss = 3.10395
+I0426 12:49:53.349608 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 12:49:53.349619 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.10395 (* 1 = 3.10395 loss)
+I0426 12:49:53.349629 10426 sgd_solver.cpp:112] Iteration 22400, lr = 0.1
+I0426 12:50:29.254582 10426 solver.cpp:239] Iteration 22500 (2.78512 iter/s, 35.9052s/100 iters), loss = 2.98401
+I0426 12:50:29.254678 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 12:50:29.254690 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.98401 (* 1 = 2.98401 loss)
+I0426 12:50:29.254700 10426 sgd_solver.cpp:112] Iteration 22500, lr = 0.1
+I0426 12:50:29.271147 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:51:05.186389 10426 solver.cpp:239] Iteration 22600 (2.78304 iter/s, 35.9319s/100 iters), loss = 3.60791
+I0426 12:51:05.186484 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:51:05.186496 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.60791 (* 1 = 3.60791 loss)
+I0426 12:51:05.186506 10426 sgd_solver.cpp:112] Iteration 22600, lr = 0.1
+I0426 12:51:41.108705 10426 solver.cpp:239] Iteration 22700 (2.78378 iter/s, 35.9224s/100 iters), loss = 3.15967
+I0426 12:51:41.108796 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 12:51:41.108808 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.15967 (* 1 = 3.15967 loss)
+I0426 12:51:41.108819 10426 sgd_solver.cpp:112] Iteration 22700, lr = 0.1
+I0426 12:52:17.037451 10426 solver.cpp:239] Iteration 22800 (2.78328 iter/s, 35.9288s/100 iters), loss = 3.60562
+I0426 12:52:17.037537 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:52:17.037549 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.60562 (* 1 = 3.60562 loss)
+I0426 12:52:17.037559 10426 sgd_solver.cpp:112] Iteration 22800, lr = 0.1
+I0426 12:52:52.970873 10426 solver.cpp:239] Iteration 22900 (2.78292 iter/s, 35.9335s/100 iters), loss = 3.51293
+I0426 12:52:52.970985 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 12:52:52.970999 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.51293 (* 1 = 3.51293 loss)
+I0426 12:52:52.971009 10426 sgd_solver.cpp:112] Iteration 22900, lr = 0.1
+I0426 12:53:28.905423 10426 solver.cpp:239] Iteration 23000 (2.78283 iter/s, 35.9346s/100 iters), loss = 3.11183
+I0426 12:53:28.905508 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:53:28.905519 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.11183 (* 1 = 3.11183 loss)
+I0426 12:53:28.905529 10426 sgd_solver.cpp:112] Iteration 23000, lr = 0.1
+I0426 12:54:04.839118 10426 solver.cpp:239] Iteration 23100 (2.7829 iter/s, 35.9338s/100 iters), loss = 3.52909
+I0426 12:54:04.839201 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 12:54:04.839213 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.52909 (* 1 = 3.52909 loss)
+I0426 12:54:04.839223 10426 sgd_solver.cpp:112] Iteration 23100, lr = 0.1
+I0426 12:54:40.757231 10426 solver.cpp:239] Iteration 23200 (2.7841 iter/s, 35.9182s/100 iters), loss = 3.3583
+I0426 12:54:40.757328 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:54:40.757340 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.3583 (* 1 = 3.3583 loss)
+I0426 12:54:40.757350 10426 sgd_solver.cpp:112] Iteration 23200, lr = 0.1
+I0426 12:54:58.739892 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 12:55:16.689894 10426 solver.cpp:239] Iteration 23300 (2.78298 iter/s, 35.9327s/100 iters), loss = 3.83974
+I0426 12:55:16.689983 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 12:55:16.689996 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.83974 (* 1 = 3.83974 loss)
+I0426 12:55:16.690006 10426 sgd_solver.cpp:112] Iteration 23300, lr = 0.1
+I0426 12:55:52.624478 10426 solver.cpp:239] Iteration 23400 (2.78283 iter/s, 35.9347s/100 iters), loss = 3.01527
+I0426 12:55:52.624578 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 12:55:52.624590 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.01527 (* 1 = 3.01527 loss)
+I0426 12:55:52.624600 10426 sgd_solver.cpp:112] Iteration 23400, lr = 0.1
+I0426 12:56:28.546327 10426 solver.cpp:239] Iteration 23500 (2.78382 iter/s, 35.9219s/100 iters), loss = 3.08672
+I0426 12:56:28.546423 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 12:56:28.546435 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.08672 (* 1 = 3.08672 loss)
+I0426 12:56:28.546445 10426 sgd_solver.cpp:112] Iteration 23500, lr = 0.1
+I0426 12:57:04.491098 10426 solver.cpp:239] Iteration 23600 (2.78204 iter/s, 35.9449s/100 iters), loss = 3.58024
+I0426 12:57:04.491183 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 12:57:04.491194 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.58024 (* 1 = 3.58024 loss)
+I0426 12:57:04.491204 10426 sgd_solver.cpp:112] Iteration 23600, lr = 0.1
+I0426 12:57:40.437070 10426 solver.cpp:239] Iteration 23700 (2.78195 iter/s, 35.9461s/100 iters), loss = 3.43749
+I0426 12:57:40.437165 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 12:57:40.437177 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.43749 (* 1 = 3.43749 loss)
+I0426 12:57:40.437189 10426 sgd_solver.cpp:112] Iteration 23700, lr = 0.1
+I0426 12:58:16.372509 10426 solver.cpp:239] Iteration 23800 (2.78276 iter/s, 35.9355s/100 iters), loss = 3.83218
+I0426 12:58:16.372606 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 12:58:16.372617 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.83218 (* 1 = 3.83218 loss)
+I0426 12:58:16.372627 10426 sgd_solver.cpp:112] Iteration 23800, lr = 0.1
+I0426 12:58:52.292937 10426 solver.cpp:239] Iteration 23900 (2.78393 iter/s, 35.9205s/100 iters), loss = 3.36104
+I0426 12:58:52.293040 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 12:58:52.293052 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.36104 (* 1 = 3.36104 loss)
+I0426 12:58:52.293062 10426 sgd_solver.cpp:112] Iteration 23900, lr = 0.1
+I0426 12:59:27.857802 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_24000.caffemodel
+I0426 12:59:27.891942 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_24000.solverstate
+I0426 12:59:28.260229 10426 solver.cpp:239] Iteration 24000 (2.7803 iter/s, 35.9674s/100 iters), loss = 3.48554
+I0426 12:59:28.260259 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 12:59:28.260269 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.48554 (* 1 = 3.48554 loss)
+I0426 12:59:28.260278 10426 sgd_solver.cpp:112] Iteration 24000, lr = 0.1
+I0426 12:59:28.633424 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:00:04.198572 10426 solver.cpp:239] Iteration 24100 (2.78253 iter/s, 35.9385s/100 iters), loss = 3.34402
+I0426 13:00:04.198660 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:00:04.198673 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.34402 (* 1 = 3.34402 loss)
+I0426 13:00:04.198683 10426 sgd_solver.cpp:112] Iteration 24100, lr = 0.1
+I0426 13:00:40.164034 10426 solver.cpp:239] Iteration 24200 (2.78044 iter/s, 35.9655s/100 iters), loss = 3.34399
+I0426 13:00:40.164125 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:00:40.164137 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.34399 (* 1 = 3.34399 loss)
+I0426 13:00:40.164151 10426 sgd_solver.cpp:112] Iteration 24200, lr = 0.1
+I0426 13:01:16.119285 10426 solver.cpp:239] Iteration 24300 (2.78123 iter/s, 35.9553s/100 iters), loss = 3.39493
+I0426 13:01:16.119374 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 13:01:16.119386 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.39493 (* 1 = 3.39493 loss)
+I0426 13:01:16.119397 10426 sgd_solver.cpp:112] Iteration 24300, lr = 0.1
+I0426 13:01:52.062829 10426 solver.cpp:239] Iteration 24400 (2.78213 iter/s, 35.9436s/100 iters), loss = 3.29946
+I0426 13:01:52.062906 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:01:52.062918 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.29946 (* 1 = 3.29946 loss)
+I0426 13:01:52.062929 10426 sgd_solver.cpp:112] Iteration 24400, lr = 0.1
+I0426 13:02:28.020484 10426 solver.cpp:239] Iteration 24500 (2.78104 iter/s, 35.9577s/100 iters), loss = 3.14197
+I0426 13:02:28.020576 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 13:02:28.020589 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14197 (* 1 = 3.14197 loss)
+I0426 13:02:28.020601 10426 sgd_solver.cpp:112] Iteration 24500, lr = 0.1
+I0426 13:03:03.985836 10426 solver.cpp:239] Iteration 24600 (2.78045 iter/s, 35.9654s/100 iters), loss = 3.76644
+I0426 13:03:03.985975 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 13:03:03.985988 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.76644 (* 1 = 3.76644 loss)
+I0426 13:03:03.985998 10426 sgd_solver.cpp:112] Iteration 24600, lr = 0.1
+I0426 13:03:39.937058 10426 solver.cpp:239] Iteration 24700 (2.78154 iter/s, 35.9513s/100 iters), loss = 3.35072
+I0426 13:03:39.937147 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:03:39.937160 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.35072 (* 1 = 3.35072 loss)
+I0426 13:03:39.937170 10426 sgd_solver.cpp:112] Iteration 24700, lr = 0.1
+I0426 13:03:58.294307 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:04:15.892510 10426 solver.cpp:239] Iteration 24800 (2.78121 iter/s, 35.9556s/100 iters), loss = 3.41949
+I0426 13:04:15.892590 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 13:04:15.892602 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.41949 (* 1 = 3.41949 loss)
+I0426 13:04:15.892612 10426 sgd_solver.cpp:112] Iteration 24800, lr = 0.1
+I0426 13:04:51.848832 10426 solver.cpp:239] Iteration 24900 (2.78114 iter/s, 35.9565s/100 iters), loss = 3.12415
+I0426 13:04:51.848937 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:04:51.848950 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.12415 (* 1 = 3.12415 loss)
+I0426 13:04:51.848960 10426 sgd_solver.cpp:112] Iteration 24900, lr = 0.1
+I0426 13:05:27.802919 10426 solver.cpp:239] Iteration 25000 (2.78131 iter/s, 35.9543s/100 iters), loss = 3.48448
+I0426 13:05:27.803006 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:05:27.803020 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.48448 (* 1 = 3.48448 loss)
+I0426 13:05:27.803030 10426 sgd_solver.cpp:112] Iteration 25000, lr = 0.1
+I0426 13:06:03.745720 10426 solver.cpp:239] Iteration 25100 (2.78218 iter/s, 35.943s/100 iters), loss = 3.07698
+I0426 13:06:03.746618 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:06:03.746630 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.07698 (* 1 = 3.07698 loss)
+I0426 13:06:03.746641 10426 sgd_solver.cpp:112] Iteration 25100, lr = 0.1
+I0426 13:06:39.690069 10426 solver.cpp:239] Iteration 25200 (2.78213 iter/s, 35.9437s/100 iters), loss = 3.68934
+I0426 13:06:39.690157 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 13:06:39.690171 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.68934 (* 1 = 3.68934 loss)
+I0426 13:06:39.690181 10426 sgd_solver.cpp:112] Iteration 25200, lr = 0.1
+I0426 13:07:15.661128 10426 solver.cpp:239] Iteration 25300 (2.78 iter/s, 35.9712s/100 iters), loss = 3.53324
+I0426 13:07:15.661211 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 13:07:15.661231 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.53324 (* 1 = 3.53324 loss)
+I0426 13:07:15.661242 10426 sgd_solver.cpp:112] Iteration 25300, lr = 0.1
+I0426 13:07:51.622234 10426 solver.cpp:239] Iteration 25400 (2.78077 iter/s, 35.9613s/100 iters), loss = 3.24414
+I0426 13:07:51.622331 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:07:51.622345 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.24414 (* 1 = 3.24414 loss)
+I0426 13:07:51.622356 10426 sgd_solver.cpp:112] Iteration 25400, lr = 0.1
+I0426 13:08:27.594830 10426 solver.cpp:239] Iteration 25500 (2.77988 iter/s, 35.9728s/100 iters), loss = 3.14165
+I0426 13:08:27.594919 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 13:08:27.594933 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14165 (* 1 = 3.14165 loss)
+I0426 13:08:27.594943 10426 sgd_solver.cpp:112] Iteration 25500, lr = 0.1
+I0426 13:08:27.974524 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:09:03.562763 10426 solver.cpp:239] Iteration 25600 (2.78024 iter/s, 35.9681s/100 iters), loss = 2.98034
+I0426 13:09:03.562907 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:09:03.562921 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.98034 (* 1 = 2.98034 loss)
+I0426 13:09:03.562930 10426 sgd_solver.cpp:112] Iteration 25600, lr = 0.1
+I0426 13:09:39.520320 10426 solver.cpp:239] Iteration 25700 (2.78105 iter/s, 35.9577s/100 iters), loss = 3.52573
+I0426 13:09:39.520406 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:09:39.520419 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.52573 (* 1 = 3.52573 loss)
+I0426 13:09:39.520429 10426 sgd_solver.cpp:112] Iteration 25700, lr = 0.1
+I0426 13:10:15.482547 10426 solver.cpp:239] Iteration 25800 (2.78068 iter/s, 35.9624s/100 iters), loss = 3.17733
+I0426 13:10:15.482646 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 13:10:15.482658 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.17733 (* 1 = 3.17733 loss)
+I0426 13:10:15.482668 10426 sgd_solver.cpp:112] Iteration 25800, lr = 0.1
+I0426 13:10:51.449043 10426 solver.cpp:239] Iteration 25900 (2.78035 iter/s, 35.9666s/100 iters), loss = 3.37979
+I0426 13:10:51.449163 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:10:51.449175 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.37979 (* 1 = 3.37979 loss)
+I0426 13:10:51.449187 10426 sgd_solver.cpp:112] Iteration 25900, lr = 0.1
+I0426 13:11:27.404058 10426 solver.cpp:239] Iteration 26000 (2.78124 iter/s, 35.9551s/100 iters), loss = 2.84641
+I0426 13:11:27.404155 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 13:11:27.404167 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.84641 (* 1 = 2.84641 loss)
+I0426 13:11:27.404177 10426 sgd_solver.cpp:112] Iteration 26000, lr = 0.1
+I0426 13:12:03.356180 10426 solver.cpp:239] Iteration 26100 (2.78147 iter/s, 35.9523s/100 iters), loss = 3.93566
+I0426 13:12:03.356271 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 13:12:03.356283 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.93566 (* 1 = 3.93566 loss)
+I0426 13:12:03.356293 10426 sgd_solver.cpp:112] Iteration 26100, lr = 0.1
+I0426 13:12:39.314461 10426 solver.cpp:239] Iteration 26200 (2.78099 iter/s, 35.9584s/100 iters), loss = 2.81832
+I0426 13:12:39.314577 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 13:12:39.314590 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.81832 (* 1 = 2.81832 loss)
+I0426 13:12:39.314600 10426 sgd_solver.cpp:112] Iteration 26200, lr = 0.1
+I0426 13:12:58.030279 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:13:15.269464 10426 solver.cpp:239] Iteration 26300 (2.78125 iter/s, 35.9551s/100 iters), loss = 3.11681
+I0426 13:13:15.269553 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:13:15.269565 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.11681 (* 1 = 3.11681 loss)
+I0426 13:13:15.269575 10426 sgd_solver.cpp:112] Iteration 26300, lr = 0.1
+I0426 13:13:51.221436 10426 solver.cpp:239] Iteration 26400 (2.78148 iter/s, 35.9521s/100 iters), loss = 3.37198
+I0426 13:13:51.221531 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 13:13:51.221544 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.37198 (* 1 = 3.37198 loss)
+I0426 13:13:51.221552 10426 sgd_solver.cpp:112] Iteration 26400, lr = 0.1
+I0426 13:14:27.171598 10426 solver.cpp:239] Iteration 26500 (2.78162 iter/s, 35.9503s/100 iters), loss = 3.23332
+I0426 13:14:27.171699 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:14:27.171710 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.23332 (* 1 = 3.23332 loss)
+I0426 13:14:27.171720 10426 sgd_solver.cpp:112] Iteration 26500, lr = 0.1
+I0426 13:15:03.106909 10426 solver.cpp:239] Iteration 26600 (2.78277 iter/s, 35.9354s/100 iters), loss = 3.26836
+I0426 13:15:03.107002 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:15:03.107013 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.26836 (* 1 = 3.26836 loss)
+I0426 13:15:03.107023 10426 sgd_solver.cpp:112] Iteration 26600, lr = 0.1
+I0426 13:15:39.065847 10426 solver.cpp:239] Iteration 26700 (2.78094 iter/s, 35.9591s/100 iters), loss = 3.53568
+I0426 13:15:39.065930 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:15:39.065943 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.53568 (* 1 = 3.53568 loss)
+I0426 13:15:39.065953 10426 sgd_solver.cpp:112] Iteration 26700, lr = 0.1
+I0426 13:16:14.999116 10426 solver.cpp:239] Iteration 26800 (2.78293 iter/s, 35.9334s/100 iters), loss = 2.84176
+I0426 13:16:14.999198 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 13:16:14.999210 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.84176 (* 1 = 2.84176 loss)
+I0426 13:16:14.999220 10426 sgd_solver.cpp:112] Iteration 26800, lr = 0.1
+I0426 13:16:50.949332 10426 solver.cpp:239] Iteration 26900 (2.78161 iter/s, 35.9503s/100 iters), loss = 3.96501
+I0426 13:16:50.949414 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 13:16:50.949427 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.96501 (* 1 = 3.96501 loss)
+I0426 13:16:50.949437 10426 sgd_solver.cpp:112] Iteration 26900, lr = 0.1
+I0426 13:17:26.908323 10426 solver.cpp:239] Iteration 27000 (2.78094 iter/s, 35.9591s/100 iters), loss = 3.01015
+I0426 13:17:26.910588 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:17:26.910601 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.01015 (* 1 = 3.01015 loss)
+I0426 13:17:26.910612 10426 sgd_solver.cpp:112] Iteration 27000, lr = 0.1
+I0426 13:17:27.643486 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:18:02.854931 10426 solver.cpp:239] Iteration 27100 (2.78206 iter/s, 35.9445s/100 iters), loss = 3.38605
+I0426 13:18:02.855020 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:18:02.855033 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.38605 (* 1 = 3.38605 loss)
+I0426 13:18:02.855043 10426 sgd_solver.cpp:112] Iteration 27100, lr = 0.1
+I0426 13:18:38.800895 10426 solver.cpp:239] Iteration 27200 (2.78194 iter/s, 35.9461s/100 iters), loss = 2.91649
+I0426 13:18:38.800997 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5
+I0426 13:18:38.801010 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.91649 (* 1 = 2.91649 loss)
+I0426 13:18:38.801020 10426 sgd_solver.cpp:112] Iteration 27200, lr = 0.1
+I0426 13:19:14.740911 10426 solver.cpp:239] Iteration 27300 (2.78241 iter/s, 35.9401s/100 iters), loss = 3.11739
+I0426 13:19:14.740999 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:19:14.741011 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.11739 (* 1 = 3.11739 loss)
+I0426 13:19:14.741021 10426 sgd_solver.cpp:112] Iteration 27300, lr = 0.1
+I0426 13:19:50.679870 10426 solver.cpp:239] Iteration 27400 (2.78249 iter/s, 35.9391s/100 iters), loss = 3.09749
+I0426 13:19:50.679960 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 13:19:50.679973 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.09749 (* 1 = 3.09749 loss)
+I0426 13:19:50.679983 10426 sgd_solver.cpp:112] Iteration 27400, lr = 0.1
+I0426 13:20:26.610366 10426 solver.cpp:239] Iteration 27500 (2.78314 iter/s, 35.9306s/100 iters), loss = 3.59849
+I0426 13:20:26.610457 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 13:20:26.610469 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.59849 (* 1 = 3.59849 loss)
+I0426 13:20:26.610479 10426 sgd_solver.cpp:112] Iteration 27500, lr = 0.1
+I0426 13:21:02.541908 10426 solver.cpp:239] Iteration 27600 (2.78306 iter/s, 35.9316s/100 iters), loss = 3.16047
+I0426 13:21:02.541997 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:21:02.542011 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.16047 (* 1 = 3.16047 loss)
+I0426 13:21:02.542021 10426 sgd_solver.cpp:112] Iteration 27600, lr = 0.1
+I0426 13:21:38.473816 10426 solver.cpp:239] Iteration 27700 (2.78303 iter/s, 35.932s/100 iters), loss = 3.51226
+I0426 13:21:38.473992 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 13:21:38.474005 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.51226 (* 1 = 3.51226 loss)
+I0426 13:21:38.474015 10426 sgd_solver.cpp:112] Iteration 27700, lr = 0.1
+I0426 13:21:57.175247 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:22:14.398864 10426 solver.cpp:239] Iteration 27800 (2.78357 iter/s, 35.9251s/100 iters), loss = 3.17852
+I0426 13:22:14.398952 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:22:14.398965 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.17852 (* 1 = 3.17852 loss)
+I0426 13:22:14.398975 10426 sgd_solver.cpp:112] Iteration 27800, lr = 0.1
+I0426 13:22:50.314357 10426 solver.cpp:239] Iteration 27900 (2.78431 iter/s, 35.9156s/100 iters), loss = 3.85222
+I0426 13:22:50.314445 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 13:22:50.314457 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.85222 (* 1 = 3.85222 loss)
+I0426 13:22:50.314467 10426 sgd_solver.cpp:112] Iteration 27900, lr = 0.1
+I0426 13:23:25.884376 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_28000.caffemodel
+I0426 13:23:25.915062 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_28000.solverstate
+I0426 13:23:26.281697 10426 solver.cpp:239] Iteration 28000 (2.78029 iter/s, 35.9674s/100 iters), loss = 3.54681
+I0426 13:23:26.281728 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 13:23:26.281738 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.54681 (* 1 = 3.54681 loss)
+I0426 13:23:26.281749 10426 sgd_solver.cpp:112] Iteration 28000, lr = 0.1
+I0426 13:24:02.207773 10426 solver.cpp:239] Iteration 28100 (2.78348 iter/s, 35.9262s/100 iters), loss = 3.04421
+I0426 13:24:02.207885 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:24:02.207896 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.04421 (* 1 = 3.04421 loss)
+I0426 13:24:02.207907 10426 sgd_solver.cpp:112] Iteration 28100, lr = 0.1
+I0426 13:24:38.132284 10426 solver.cpp:239] Iteration 28200 (2.78361 iter/s, 35.9246s/100 iters), loss = 3.46922
+I0426 13:24:38.132369 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:24:38.132381 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.46922 (* 1 = 3.46922 loss)
+I0426 13:24:38.132391 10426 sgd_solver.cpp:112] Iteration 28200, lr = 0.1
+I0426 13:25:14.073976 10426 solver.cpp:239] Iteration 28300 (2.78228 iter/s, 35.9418s/100 iters), loss = 3.14366
+I0426 13:25:14.074067 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:25:14.074079 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14366 (* 1 = 3.14366 loss)
+I0426 13:25:14.074090 10426 sgd_solver.cpp:112] Iteration 28300, lr = 0.1
+I0426 13:25:50.007616 10426 solver.cpp:239] Iteration 28400 (2.7829 iter/s, 35.9337s/100 iters), loss = 3.64011
+I0426 13:25:50.007705 10426 solver.cpp:258]     Train net output #0: accuracy = 0.421875
+I0426 13:25:50.007719 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.64011 (* 1 = 3.64011 loss)
+I0426 13:25:50.007728 10426 sgd_solver.cpp:112] Iteration 28400, lr = 0.1
+I0426 13:26:25.932127 10426 solver.cpp:239] Iteration 28500 (2.78361 iter/s, 35.9246s/100 iters), loss = 2.61435
+I0426 13:26:25.932222 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 13:26:25.932235 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.61435 (* 1 = 2.61435 loss)
+I0426 13:26:25.932246 10426 sgd_solver.cpp:112] Iteration 28500, lr = 0.1
+I0426 13:26:27.021523 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:27:01.866479 10426 solver.cpp:239] Iteration 28600 (2.78285 iter/s, 35.9344s/100 iters), loss = 2.78012
+I0426 13:27:01.866572 10426 solver.cpp:258]     Train net output #0: accuracy = 0.546875
+I0426 13:27:01.866585 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.78012 (* 1 = 2.78012 loss)
+I0426 13:27:01.866595 10426 sgd_solver.cpp:112] Iteration 28600, lr = 0.1
+I0426 13:27:37.803561 10426 solver.cpp:239] Iteration 28700 (2.78263 iter/s, 35.9372s/100 iters), loss = 3.2259
+I0426 13:27:37.803644 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 13:27:37.803656 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.2259 (* 1 = 3.2259 loss)
+I0426 13:27:37.803666 10426 sgd_solver.cpp:112] Iteration 28700, lr = 0.1
+I0426 13:28:13.739856 10426 solver.cpp:239] Iteration 28800 (2.78269 iter/s, 35.9364s/100 iters), loss = 3.41539
+I0426 13:28:13.739945 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:28:13.739958 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.41539 (* 1 = 3.41539 loss)
+I0426 13:28:13.739967 10426 sgd_solver.cpp:112] Iteration 28800, lr = 0.1
+I0426 13:28:49.677920 10426 solver.cpp:239] Iteration 28900 (2.78256 iter/s, 35.9382s/100 iters), loss = 3.40663
+I0426 13:28:49.678033 10426 solver.cpp:258]     Train net output #0: accuracy = 0.46875
+I0426 13:28:49.678046 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.40663 (* 1 = 3.40663 loss)
+I0426 13:28:49.678057 10426 sgd_solver.cpp:112] Iteration 28900, lr = 0.1
+I0426 13:29:25.608995 10426 solver.cpp:239] Iteration 29000 (2.7831 iter/s, 35.9312s/100 iters), loss = 3.54709
+I0426 13:29:25.609094 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 13:29:25.609107 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.54709 (* 1 = 3.54709 loss)
+I0426 13:29:25.609117 10426 sgd_solver.cpp:112] Iteration 29000, lr = 0.1
+I0426 13:30:01.533874 10426 solver.cpp:239] Iteration 29100 (2.78358 iter/s, 35.925s/100 iters), loss = 3.40655
+I0426 13:30:01.533957 10426 solver.cpp:258]     Train net output #0: accuracy = 0.445312
+I0426 13:30:01.533968 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.40655 (* 1 = 3.40655 loss)
+I0426 13:30:01.533978 10426 sgd_solver.cpp:112] Iteration 29100, lr = 0.1
+I0426 13:30:37.468247 10426 solver.cpp:239] Iteration 29200 (2.78284 iter/s, 35.9345s/100 iters), loss = 3.76331
+I0426 13:30:37.468349 10426 solver.cpp:258]     Train net output #0: accuracy = 0.414062
+I0426 13:30:37.468361 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.76331 (* 1 = 3.76331 loss)
+I0426 13:30:37.468371 10426 sgd_solver.cpp:112] Iteration 29200, lr = 0.1
+I0426 13:30:56.533886 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:31:13.421566 10426 solver.cpp:239] Iteration 29300 (2.78138 iter/s, 35.9534s/100 iters), loss = 3.70138
+I0426 13:31:13.421665 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 13:31:13.421677 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.70138 (* 1 = 3.70138 loss)
+I0426 13:31:13.421687 10426 sgd_solver.cpp:112] Iteration 29300, lr = 0.1
+I0426 13:31:49.369619 10426 solver.cpp:239] Iteration 29400 (2.78178 iter/s, 35.9481s/100 iters), loss = 3.65289
+I0426 13:31:49.369712 10426 solver.cpp:258]     Train net output #0: accuracy = 0.4375
+I0426 13:31:49.369724 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.65289 (* 1 = 3.65289 loss)
+I0426 13:31:49.369735 10426 sgd_solver.cpp:112] Iteration 29400, lr = 0.1
+I0426 13:32:25.307806 10426 solver.cpp:239] Iteration 29500 (2.78255 iter/s, 35.9383s/100 iters), loss = 3.36726
+I0426 13:32:25.310214 10426 solver.cpp:258]     Train net output #0: accuracy = 0.453125
+I0426 13:32:25.310226 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.36726 (* 1 = 3.36726 loss)
+I0426 13:32:25.310236 10426 sgd_solver.cpp:112] Iteration 29500, lr = 0.1
+I0426 13:33:01.269548 10426 solver.cpp:239] Iteration 29600 (2.7809 iter/s, 35.9595s/100 iters), loss = 3.10801
+I0426 13:33:01.269639 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:33:01.269651 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.10801 (* 1 = 3.10801 loss)
+I0426 13:33:01.269661 10426 sgd_solver.cpp:112] Iteration 29600, lr = 0.1
+I0426 13:33:37.233754 10426 solver.cpp:239] Iteration 29700 (2.78053 iter/s, 35.9643s/100 iters), loss = 3.4443
+I0426 13:33:37.233841 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:33:37.233853 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.4443 (* 1 = 3.4443 loss)
+I0426 13:33:37.233863 10426 sgd_solver.cpp:112] Iteration 29700, lr = 0.1
+I0426 13:34:13.189015 10426 solver.cpp:239] Iteration 29800 (2.78123 iter/s, 35.9554s/100 iters), loss = 3.31314
+I0426 13:34:13.189095 10426 solver.cpp:258]     Train net output #0: accuracy = 0.476562
+I0426 13:34:13.189106 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.31314 (* 1 = 3.31314 loss)
+I0426 13:34:13.189116 10426 sgd_solver.cpp:112] Iteration 29800, lr = 0.1
+I0426 13:34:49.139098 10426 solver.cpp:239] Iteration 29900 (2.78163 iter/s, 35.9502s/100 iters), loss = 3.14662
+I0426 13:34:49.139187 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 13:34:49.139199 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14662 (* 1 = 3.14662 loss)
+I0426 13:34:49.139209 10426 sgd_solver.cpp:112] Iteration 29900, lr = 0.1
+I0426 13:35:25.088527 10426 solver.cpp:239] Iteration 30000 (2.78168 iter/s, 35.9495s/100 iters), loss = 3.07712
+I0426 13:35:25.088639 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5
+I0426 13:35:25.088652 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.07712 (* 1 = 3.07712 loss)
+I0426 13:35:25.088662 10426 sgd_solver.cpp:112] Iteration 30000, lr = 0.1
+I0426 13:35:26.187026 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:36:01.021507 10426 solver.cpp:239] Iteration 30100 (2.78295 iter/s, 35.9331s/100 iters), loss = 3.26739
+I0426 13:36:01.021595 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:36:01.021606 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.26739 (* 1 = 3.26739 loss)
+I0426 13:36:01.021617 10426 sgd_solver.cpp:112] Iteration 30100, lr = 0.1
+I0426 13:36:36.949777 10426 solver.cpp:239] Iteration 30200 (2.78332 iter/s, 35.9284s/100 iters), loss = 2.57819
+I0426 13:36:36.949872 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 13:36:36.949885 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.57819 (* 1 = 2.57819 loss)
+I0426 13:36:36.949895 10426 sgd_solver.cpp:112] Iteration 30200, lr = 0.1
+I0426 13:37:12.880810 10426 solver.cpp:239] Iteration 30300 (2.7831 iter/s, 35.9311s/100 iters), loss = 3.60196
+I0426 13:37:12.880898 10426 solver.cpp:258]     Train net output #0: accuracy = 0.382812
+I0426 13:37:12.880911 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.60196 (* 1 = 3.60196 loss)
+I0426 13:37:12.880921 10426 sgd_solver.cpp:112] Iteration 30300, lr = 0.1
+I0426 13:37:48.814607 10426 solver.cpp:239] Iteration 30400 (2.78289 iter/s, 35.9339s/100 iters), loss = 3.07653
+I0426 13:37:48.814705 10426 solver.cpp:258]     Train net output #0: accuracy = 0.484375
+I0426 13:37:48.814718 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.07653 (* 1 = 3.07653 loss)
+I0426 13:37:48.814728 10426 sgd_solver.cpp:112] Iteration 30400, lr = 0.1
+I0426 13:38:24.742789 10426 solver.cpp:239] Iteration 30500 (2.78335 iter/s, 35.928s/100 iters), loss = 3.29053
+I0426 13:38:24.742885 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:38:24.742897 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.29053 (* 1 = 3.29053 loss)
+I0426 13:38:24.742908 10426 sgd_solver.cpp:112] Iteration 30500, lr = 0.1
+I0426 13:39:00.690253 10426 solver.cpp:239] Iteration 30600 (2.78186 iter/s, 35.9472s/100 iters), loss = 3.24232
+I0426 13:39:00.690351 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 13:39:00.690366 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.24232 (* 1 = 3.24232 loss)
+I0426 13:39:00.690376 10426 sgd_solver.cpp:112] Iteration 30600, lr = 0.1
+I0426 13:39:36.635005 10426 solver.cpp:239] Iteration 30700 (2.78207 iter/s, 35.9445s/100 iters), loss = 3.23169
+I0426 13:39:36.635437 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:39:36.635449 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.23169 (* 1 = 3.23169 loss)
+I0426 13:39:36.635459 10426 sgd_solver.cpp:112] Iteration 30700, lr = 0.1
+I0426 13:39:56.044818 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:40:12.560961 10426 solver.cpp:239] Iteration 30800 (2.78355 iter/s, 35.9253s/100 iters), loss = 2.94757
+I0426 13:40:12.561180 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 13:40:12.561192 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.94757 (* 1 = 2.94757 loss)
+I0426 13:40:12.561203 10426 sgd_solver.cpp:112] Iteration 30800, lr = 0.1
+I0426 13:40:48.491649 10426 solver.cpp:239] Iteration 30900 (2.78316 iter/s, 35.9303s/100 iters), loss = 2.93803
+I0426 13:40:48.492416 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 13:40:48.492429 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.93803 (* 1 = 2.93803 loss)
+I0426 13:40:48.492439 10426 sgd_solver.cpp:112] Iteration 30900, lr = 0.1
+I0426 13:41:24.419301 10426 solver.cpp:239] Iteration 31000 (2.78344 iter/s, 35.9268s/100 iters), loss = 3.50343
+I0426 13:41:24.419409 10426 solver.cpp:258]     Train net output #0: accuracy = 0.460938
+I0426 13:41:24.419421 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.50343 (* 1 = 3.50343 loss)
+I0426 13:41:24.419431 10426 sgd_solver.cpp:112] Iteration 31000, lr = 0.1
+I0426 13:42:00.344151 10426 solver.cpp:239] Iteration 31100 (2.78361 iter/s, 35.9246s/100 iters), loss = 3.15835
+I0426 13:42:00.344245 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 13:42:00.344259 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.15835 (* 1 = 3.15835 loss)
+I0426 13:42:00.344267 10426 sgd_solver.cpp:112] Iteration 31100, lr = 0.1
+I0426 13:42:36.275421 10426 solver.cpp:239] Iteration 31200 (2.78311 iter/s, 35.9311s/100 iters), loss = 3.00672
+I0426 13:42:36.275508 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 13:42:36.275521 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.00672 (* 1 = 3.00672 loss)
+I0426 13:42:36.275530 10426 sgd_solver.cpp:112] Iteration 31200, lr = 0.1
+I0426 13:43:12.203663 10426 solver.cpp:239] Iteration 31300 (2.78334 iter/s, 35.9281s/100 iters), loss = 3.80616
+I0426 13:43:12.203743 10426 solver.cpp:258]     Train net output #0: accuracy = 0.398438
+I0426 13:43:12.203754 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.80616 (* 1 = 3.80616 loss)
+I0426 13:43:12.203764 10426 sgd_solver.cpp:112] Iteration 31300, lr = 0.1
+I0426 13:43:48.131764 10426 solver.cpp:239] Iteration 31400 (2.78335 iter/s, 35.9279s/100 iters), loss = 3.18595
+I0426 13:43:48.131852 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:43:48.131865 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.18595 (* 1 = 3.18595 loss)
+I0426 13:43:48.131875 10426 sgd_solver.cpp:112] Iteration 31400, lr = 0.1
+I0426 13:44:24.058358 10426 solver.cpp:239] Iteration 31500 (2.78346 iter/s, 35.9264s/100 iters), loss = 2.75353
+I0426 13:44:24.058480 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 13:44:24.058493 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.75353 (* 1 = 2.75353 loss)
+I0426 13:44:24.058503 10426 sgd_solver.cpp:112] Iteration 31500, lr = 0.1
+I0426 13:44:25.511056 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:45:00.004845 10426 solver.cpp:239] Iteration 31600 (2.78193 iter/s, 35.9463s/100 iters), loss = 3.29917
+I0426 13:45:00.004938 10426 solver.cpp:258]     Train net output #0: accuracy = 0.429688
+I0426 13:45:00.004951 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.29917 (* 1 = 3.29917 loss)
+I0426 13:45:00.004961 10426 sgd_solver.cpp:112] Iteration 31600, lr = 0.1
+I0426 13:45:35.941503 10426 solver.cpp:239] Iteration 31700 (2.78268 iter/s, 35.9365s/100 iters), loss = 3.42109
+I0426 13:45:35.941588 10426 solver.cpp:258]     Train net output #0: accuracy = 0.492188
+I0426 13:45:35.941601 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.42109 (* 1 = 3.42109 loss)
+I0426 13:45:35.941609 10426 sgd_solver.cpp:112] Iteration 31700, lr = 0.1
+I0426 13:46:11.892627 10426 solver.cpp:239] Iteration 31800 (2.78156 iter/s, 35.951s/100 iters), loss = 3.2023
+I0426 13:46:11.892711 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5
+I0426 13:46:11.892724 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.2023 (* 1 = 3.2023 loss)
+I0426 13:46:11.892733 10426 sgd_solver.cpp:112] Iteration 31800, lr = 0.1
+I0426 13:46:47.854398 10426 solver.cpp:239] Iteration 31900 (2.78074 iter/s, 35.9617s/100 iters), loss = 3.10626
+I0426 13:46:47.854486 10426 solver.cpp:258]     Train net output #0: accuracy = 0.546875
+I0426 13:46:47.854499 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.10626 (* 1 = 3.10626 loss)
+I0426 13:46:47.854509 10426 sgd_solver.cpp:112] Iteration 31900, lr = 0.1
+I0426 13:47:23.461470 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_32000.caffemodel
+I0426 13:47:23.492246 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_32000.solverstate
+I0426 13:47:23.859266 10426 solver.cpp:239] Iteration 32000 (2.77741 iter/s, 36.0048s/100 iters), loss = 3.163
+I0426 13:47:23.859283 10465 sgd_solver.cpp:50] MultiStep Status: Iteration 32000, step = 1
+I0426 13:47:23.859297 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5
+I0426 13:47:23.859283 10463 sgd_solver.cpp:50] MultiStep Status: Iteration 32000, step = 1
+I0426 13:47:23.859309 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.163 (* 1 = 3.163 loss)
+I0426 13:47:23.859283 10464 sgd_solver.cpp:50] MultiStep Status: Iteration 32000, step = 1
+I0426 13:47:23.859319 10426 sgd_solver.cpp:50] MultiStep Status: Iteration 32000, step = 1
+I0426 13:47:23.859323 10426 sgd_solver.cpp:112] Iteration 32000, lr = 0.01
+I0426 13:47:59.820226 10426 solver.cpp:239] Iteration 32100 (2.7808 iter/s, 35.9609s/100 iters), loss = 2.91405
+I0426 13:47:59.820325 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 13:47:59.820338 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.91405 (* 1 = 2.91405 loss)
+I0426 13:47:59.820349 10426 sgd_solver.cpp:112] Iteration 32100, lr = 0.01
+I0426 13:48:35.768591 10426 solver.cpp:239] Iteration 32200 (2.78177 iter/s, 35.9483s/100 iters), loss = 3.35699
+I0426 13:48:35.768678 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:48:35.768690 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.35699 (* 1 = 3.35699 loss)
+I0426 13:48:35.768699 10426 sgd_solver.cpp:112] Iteration 32200, lr = 0.01
+I0426 13:48:55.202793 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:49:11.723481 10426 solver.cpp:239] Iteration 32300 (2.78127 iter/s, 35.9548s/100 iters), loss = 3.03573
+I0426 13:49:11.723574 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 13:49:11.723587 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.03573 (* 1 = 3.03573 loss)
+I0426 13:49:11.723598 10426 sgd_solver.cpp:112] Iteration 32300, lr = 0.01
+I0426 13:49:47.674394 10426 solver.cpp:239] Iteration 32400 (2.78158 iter/s, 35.9508s/100 iters), loss = 2.7385
+I0426 13:49:47.674495 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 13:49:47.674509 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.7385 (* 1 = 2.7385 loss)
+I0426 13:49:47.674518 10426 sgd_solver.cpp:112] Iteration 32400, lr = 0.01
+I0426 13:50:23.608892 10426 solver.cpp:239] Iteration 32500 (2.78285 iter/s, 35.9344s/100 iters), loss = 2.34288
+I0426 13:50:23.608990 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 13:50:23.609002 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34288 (* 1 = 2.34288 loss)
+I0426 13:50:23.609011 10426 sgd_solver.cpp:112] Iteration 32500, lr = 0.01
+I0426 13:50:59.552657 10426 solver.cpp:239] Iteration 32600 (2.78213 iter/s, 35.9437s/100 iters), loss = 2.47311
+I0426 13:50:59.552819 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 13:50:59.552832 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.47311 (* 1 = 2.47311 loss)
+I0426 13:50:59.552842 10426 sgd_solver.cpp:112] Iteration 32600, lr = 0.01
+I0426 13:51:35.504828 10426 solver.cpp:239] Iteration 32700 (2.78148 iter/s, 35.952s/100 iters), loss = 2.10625
+I0426 13:51:35.504925 10426 solver.cpp:258]     Train net output #0: accuracy = 0.703125
+I0426 13:51:35.504937 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.10625 (* 1 = 2.10625 loss)
+I0426 13:51:35.504947 10426 sgd_solver.cpp:112] Iteration 32700, lr = 0.01
+I0426 13:52:11.464387 10426 solver.cpp:239] Iteration 32800 (2.78091 iter/s, 35.9595s/100 iters), loss = 2.95124
+I0426 13:52:11.464478 10426 solver.cpp:258]     Train net output #0: accuracy = 0.546875
+I0426 13:52:11.464490 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.95124 (* 1 = 2.95124 loss)
+I0426 13:52:11.464500 10426 sgd_solver.cpp:112] Iteration 32800, lr = 0.01
+I0426 13:52:47.417251 10426 solver.cpp:239] Iteration 32900 (2.78142 iter/s, 35.9528s/100 iters), loss = 2.40459
+I0426 13:52:47.417354 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 13:52:47.417366 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.40459 (* 1 = 2.40459 loss)
+I0426 13:52:47.417377 10426 sgd_solver.cpp:112] Iteration 32900, lr = 0.01
+I0426 13:53:23.371297 10426 solver.cpp:239] Iteration 33000 (2.78133 iter/s, 35.954s/100 iters), loss = 2.67986
+I0426 13:53:23.372040 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 13:53:23.372053 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.67986 (* 1 = 2.67986 loss)
+I0426 13:53:23.372063 10426 sgd_solver.cpp:112] Iteration 33000, lr = 0.01
+I0426 13:53:25.179798 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:53:59.309787 10426 solver.cpp:239] Iteration 33100 (2.78259 iter/s, 35.9378s/100 iters), loss = 2.54835
+I0426 13:53:59.309883 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 13:53:59.309896 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54835 (* 1 = 2.54835 loss)
+I0426 13:53:59.309906 10426 sgd_solver.cpp:112] Iteration 33100, lr = 0.01
+I0426 13:54:35.277937 10426 solver.cpp:239] Iteration 33200 (2.78024 iter/s, 35.9681s/100 iters), loss = 2.48981
+I0426 13:54:35.278045 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 13:54:35.278057 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.48981 (* 1 = 2.48981 loss)
+I0426 13:54:35.278067 10426 sgd_solver.cpp:112] Iteration 33200, lr = 0.01
+I0426 13:55:11.232734 10426 solver.cpp:239] Iteration 33300 (2.78127 iter/s, 35.9548s/100 iters), loss = 2.8044
+I0426 13:55:11.232825 10426 solver.cpp:258]     Train net output #0: accuracy = 0.53125
+I0426 13:55:11.232836 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.8044 (* 1 = 2.8044 loss)
+I0426 13:55:11.232846 10426 sgd_solver.cpp:112] Iteration 33300, lr = 0.01
+I0426 13:55:47.195896 10426 solver.cpp:239] Iteration 33400 (2.78062 iter/s, 35.9631s/100 iters), loss = 2.65449
+I0426 13:55:47.195996 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 13:55:47.196007 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.65449 (* 1 = 2.65449 loss)
+I0426 13:55:47.196017 10426 sgd_solver.cpp:112] Iteration 33400, lr = 0.01
+I0426 13:56:23.144840 10426 solver.cpp:239] Iteration 33500 (2.78172 iter/s, 35.9489s/100 iters), loss = 2.08411
+I0426 13:56:23.144932 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 13:56:23.144944 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.08411 (* 1 = 2.08411 loss)
+I0426 13:56:23.144954 10426 sgd_solver.cpp:112] Iteration 33500, lr = 0.01
+I0426 13:56:59.083571 10426 solver.cpp:239] Iteration 33600 (2.78251 iter/s, 35.9387s/100 iters), loss = 3.23386
+I0426 13:56:59.083667 10426 solver.cpp:258]     Train net output #0: accuracy = 0.523438
+I0426 13:56:59.083679 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.23386 (* 1 = 3.23386 loss)
+I0426 13:56:59.083689 10426 sgd_solver.cpp:112] Iteration 33600, lr = 0.01
+I0426 13:57:35.016590 10426 solver.cpp:239] Iteration 33700 (2.78296 iter/s, 35.933s/100 iters), loss = 3.14594
+I0426 13:57:35.016683 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 13:57:35.016695 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14594 (* 1 = 3.14594 loss)
+I0426 13:57:35.016705 10426 sgd_solver.cpp:112] Iteration 33700, lr = 0.01
+I0426 13:57:54.809981 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 13:58:10.980927 10426 solver.cpp:239] Iteration 33800 (2.78053 iter/s, 35.9643s/100 iters), loss = 2.54218
+I0426 13:58:10.981014 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 13:58:10.981026 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54218 (* 1 = 2.54218 loss)
+I0426 13:58:10.981035 10426 sgd_solver.cpp:112] Iteration 33800, lr = 0.01
+I0426 13:58:46.958438 10426 solver.cpp:239] Iteration 33900 (2.77951 iter/s, 35.9775s/100 iters), loss = 2.14482
+I0426 13:58:46.958545 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 13:58:46.958559 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.14482 (* 1 = 2.14482 loss)
+I0426 13:58:46.958569 10426 sgd_solver.cpp:112] Iteration 33900, lr = 0.01
+I0426 13:59:22.928661 10426 solver.cpp:239] Iteration 34000 (2.78008 iter/s, 35.9702s/100 iters), loss = 1.981
+I0426 13:59:22.928757 10426 solver.cpp:258]     Train net output #0: accuracy = 0.679688
+I0426 13:59:22.928771 10426 solver.cpp:258]     Train net output #1: softmax_loss = 1.981 (* 1 = 1.981 loss)
+I0426 13:59:22.928781 10426 sgd_solver.cpp:112] Iteration 34000, lr = 0.01
+I0426 13:59:58.890585 10426 solver.cpp:239] Iteration 34100 (2.78072 iter/s, 35.9619s/100 iters), loss = 2.5495
+I0426 13:59:58.890687 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 13:59:58.890699 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.5495 (* 1 = 2.5495 loss)
+I0426 13:59:58.890709 10426 sgd_solver.cpp:112] Iteration 34100, lr = 0.01
+I0426 14:00:34.847542 10426 solver.cpp:239] Iteration 34200 (2.7811 iter/s, 35.9569s/100 iters), loss = 2.27717
+I0426 14:00:34.847630 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:00:34.847642 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.27717 (* 1 = 2.27717 loss)
+I0426 14:00:34.847652 10426 sgd_solver.cpp:112] Iteration 34200, lr = 0.01
+I0426 14:01:10.780670 10426 solver.cpp:239] Iteration 34300 (2.78295 iter/s, 35.9331s/100 iters), loss = 2.68727
+I0426 14:01:10.780761 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 14:01:10.780772 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.68727 (* 1 = 2.68727 loss)
+I0426 14:01:10.780781 10426 sgd_solver.cpp:112] Iteration 34300, lr = 0.01
+I0426 14:01:46.725311 10426 solver.cpp:239] Iteration 34400 (2.78206 iter/s, 35.9446s/100 iters), loss = 2.55904
+I0426 14:01:46.725405 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 14:01:46.725417 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.55904 (* 1 = 2.55904 loss)
+I0426 14:01:46.725427 10426 sgd_solver.cpp:112] Iteration 34400, lr = 0.01
+I0426 14:02:22.675485 10426 solver.cpp:239] Iteration 34500 (2.78163 iter/s, 35.9502s/100 iters), loss = 2.69674
+I0426 14:02:22.675576 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:02:22.675587 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.69674 (* 1 = 2.69674 loss)
+I0426 14:02:22.675597 10426 sgd_solver.cpp:112] Iteration 34500, lr = 0.01
+I0426 14:02:24.486325 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:02:58.616657 10426 solver.cpp:239] Iteration 34600 (2.78232 iter/s, 35.9412s/100 iters), loss = 2.30501
+I0426 14:02:58.616763 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 14:02:58.616775 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.30501 (* 1 = 2.30501 loss)
+I0426 14:02:58.616786 10426 sgd_solver.cpp:112] Iteration 34600, lr = 0.01
+I0426 14:03:34.554509 10426 solver.cpp:239] Iteration 34700 (2.78258 iter/s, 35.9378s/100 iters), loss = 2.64282
+I0426 14:03:34.554600 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:03:34.554612 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.64282 (* 1 = 2.64282 loss)
+I0426 14:03:34.554622 10426 sgd_solver.cpp:112] Iteration 34700, lr = 0.01
+I0426 14:04:10.492750 10426 solver.cpp:239] Iteration 34800 (2.78255 iter/s, 35.9382s/100 iters), loss = 2.44002
+I0426 14:04:10.492879 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:04:10.492892 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.44002 (* 1 = 2.44002 loss)
+I0426 14:04:10.492900 10426 sgd_solver.cpp:112] Iteration 34800, lr = 0.01
+I0426 14:04:46.425223 10426 solver.cpp:239] Iteration 34900 (2.783 iter/s, 35.9324s/100 iters), loss = 3.03708
+I0426 14:04:46.425343 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:04:46.425356 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.03708 (* 1 = 3.03708 loss)
+I0426 14:04:46.425366 10426 sgd_solver.cpp:112] Iteration 34900, lr = 0.01
+I0426 14:05:22.375674 10426 solver.cpp:239] Iteration 35000 (2.78161 iter/s, 35.9504s/100 iters), loss = 1.82007
+I0426 14:05:22.375773 10426 solver.cpp:258]     Train net output #0: accuracy = 0.679688
+I0426 14:05:22.375785 10426 solver.cpp:258]     Train net output #1: softmax_loss = 1.82007 (* 1 = 1.82007 loss)
+I0426 14:05:22.375795 10426 sgd_solver.cpp:112] Iteration 35000, lr = 0.01
+I0426 14:05:58.333050 10426 solver.cpp:239] Iteration 35100 (2.78107 iter/s, 35.9574s/100 iters), loss = 2.45525
+I0426 14:05:58.333153 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:05:58.333164 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.45525 (* 1 = 2.45525 loss)
+I0426 14:05:58.333174 10426 sgd_solver.cpp:112] Iteration 35100, lr = 0.01
+I0426 14:06:34.294504 10426 solver.cpp:239] Iteration 35200 (2.78076 iter/s, 35.9615s/100 iters), loss = 2.9212
+I0426 14:06:34.296854 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:06:34.296865 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.9212 (* 1 = 2.9212 loss)
+I0426 14:06:34.296875 10426 sgd_solver.cpp:112] Iteration 35200, lr = 0.01
+I0426 14:06:54.441329 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:07:10.404335 10426 solver.cpp:239] Iteration 35300 (2.7695 iter/s, 36.1076s/100 iters), loss = 2.61757
+I0426 14:07:10.404470 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:07:10.404484 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.61757 (* 1 = 2.61757 loss)
+I0426 14:07:10.404494 10426 sgd_solver.cpp:112] Iteration 35300, lr = 0.01
+I0426 14:07:47.898025 10426 solver.cpp:239] Iteration 35400 (2.66712 iter/s, 37.4937s/100 iters), loss = 2.66945
+I0426 14:07:47.898182 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:07:47.898203 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.66945 (* 1 = 2.66945 loss)
+I0426 14:07:47.898218 10426 sgd_solver.cpp:112] Iteration 35400, lr = 0.01
+I0426 14:08:25.288492 10426 solver.cpp:239] Iteration 35500 (2.67448 iter/s, 37.3904s/100 iters), loss = 2.17459
+I0426 14:08:25.288633 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 14:08:25.288651 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.17459 (* 1 = 2.17459 loss)
+I0426 14:08:25.288667 10426 sgd_solver.cpp:112] Iteration 35500, lr = 0.01
+I0426 14:09:02.892268 10426 solver.cpp:239] Iteration 35600 (2.65931 iter/s, 37.6037s/100 iters), loss = 2.3236
+I0426 14:09:02.892514 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 14:09:02.892570 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.3236 (* 1 = 2.3236 loss)
+I0426 14:09:02.892622 10426 sgd_solver.cpp:112] Iteration 35600, lr = 0.01
+I0426 14:09:40.207103 10426 solver.cpp:239] Iteration 35700 (2.67991 iter/s, 37.3147s/100 iters), loss = 1.93771
+I0426 14:09:40.207278 10426 solver.cpp:258]     Train net output #0: accuracy = 0.695312
+I0426 14:09:40.207314 10426 solver.cpp:258]     Train net output #1: softmax_loss = 1.93771 (* 1 = 1.93771 loss)
+I0426 14:09:40.207340 10426 sgd_solver.cpp:112] Iteration 35700, lr = 0.01
+I0426 14:10:17.840669 10426 solver.cpp:239] Iteration 35800 (2.65721 iter/s, 37.6335s/100 iters), loss = 2.29153
+I0426 14:10:17.840850 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:10:17.840869 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.29153 (* 1 = 2.29153 loss)
+I0426 14:10:17.840886 10426 sgd_solver.cpp:112] Iteration 35800, lr = 0.01
+I0426 14:10:54.910495 10426 solver.cpp:239] Iteration 35900 (2.69762 iter/s, 37.0698s/100 iters), loss = 2.76197
+I0426 14:10:54.910629 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:10:54.910646 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.76197 (* 1 = 2.76197 loss)
+I0426 14:10:54.910663 10426 sgd_solver.cpp:112] Iteration 35900, lr = 0.01
+I0426 14:11:30.657124 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_36000.caffemodel
+I0426 14:11:30.692515 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_36000.solverstate
+I0426 14:11:31.060289 10426 solver.cpp:239] Iteration 36000 (2.76627 iter/s, 36.1498s/100 iters), loss = 2.39941
+I0426 14:11:31.060323 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:11:31.060336 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.39941 (* 1 = 2.39941 loss)
+I0426 14:11:31.060348 10426 sgd_solver.cpp:112] Iteration 36000, lr = 0.01
+I0426 14:11:33.229645 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:12:07.704373 10426 solver.cpp:239] Iteration 36100 (2.72895 iter/s, 36.6442s/100 iters), loss = 2.77866
+I0426 14:12:07.705660 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:12:07.705708 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.77866 (* 1 = 2.77866 loss)
+I0426 14:12:07.705744 10426 sgd_solver.cpp:112] Iteration 36100, lr = 0.01
+I0426 14:12:45.364537 10426 solver.cpp:239] Iteration 36200 (2.6554 iter/s, 37.6592s/100 iters), loss = 2.78702
+I0426 14:12:45.364619 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:12:45.364630 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.78702 (* 1 = 2.78702 loss)
+I0426 14:12:45.364641 10426 sgd_solver.cpp:112] Iteration 36200, lr = 0.01
+I0426 14:13:21.645650 10426 solver.cpp:239] Iteration 36300 (2.75624 iter/s, 36.2813s/100 iters), loss = 2.53764
+I0426 14:13:21.646011 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 14:13:21.646023 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53764 (* 1 = 2.53764 loss)
+I0426 14:13:21.646034 10426 sgd_solver.cpp:112] Iteration 36300, lr = 0.01
+I0426 14:13:57.598593 10426 solver.cpp:239] Iteration 36400 (2.78142 iter/s, 35.9528s/100 iters), loss = 2.30055
+I0426 14:13:57.598702 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:13:57.598714 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.30055 (* 1 = 2.30055 loss)
+I0426 14:13:57.598724 10426 sgd_solver.cpp:112] Iteration 36400, lr = 0.01
+I0426 14:14:33.539438 10426 solver.cpp:239] Iteration 36500 (2.78234 iter/s, 35.941s/100 iters), loss = 2.79792
+I0426 14:14:33.539533 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 14:14:33.539546 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.79792 (* 1 = 2.79792 loss)
+I0426 14:14:33.539554 10426 sgd_solver.cpp:112] Iteration 36500, lr = 0.01
+I0426 14:15:09.482530 10426 solver.cpp:239] Iteration 36600 (2.78217 iter/s, 35.9432s/100 iters), loss = 2.91806
+I0426 14:15:09.482611 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:15:09.482625 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.91806 (* 1 = 2.91806 loss)
+I0426 14:15:09.482633 10426 sgd_solver.cpp:112] Iteration 36600, lr = 0.01
+I0426 14:15:45.427197 10426 solver.cpp:239] Iteration 36700 (2.78204 iter/s, 35.9448s/100 iters), loss = 2.50031
+I0426 14:15:45.427295 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:15:45.427306 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.50031 (* 1 = 2.50031 loss)
+I0426 14:15:45.427316 10426 sgd_solver.cpp:112] Iteration 36700, lr = 0.01
+I0426 14:16:05.579555 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:16:21.382014 10426 solver.cpp:239] Iteration 36800 (2.78126 iter/s, 35.9549s/100 iters), loss = 2.6546
+I0426 14:16:21.382107 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 14:16:21.382119 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6546 (* 1 = 2.6546 loss)
+I0426 14:16:21.382129 10426 sgd_solver.cpp:112] Iteration 36800, lr = 0.01
+I0426 14:16:57.338631 10426 solver.cpp:239] Iteration 36900 (2.78112 iter/s, 35.9567s/100 iters), loss = 2.09495
+I0426 14:16:57.338748 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 14:16:57.338762 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.09495 (* 1 = 2.09495 loss)
+I0426 14:16:57.338775 10426 sgd_solver.cpp:112] Iteration 36900, lr = 0.01
+I0426 14:17:33.290956 10426 solver.cpp:239] Iteration 37000 (2.78145 iter/s, 35.9524s/100 iters), loss = 2.57509
+I0426 14:17:33.291043 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:17:33.291055 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.57509 (* 1 = 2.57509 loss)
+I0426 14:17:33.291069 10426 sgd_solver.cpp:112] Iteration 37000, lr = 0.01
+I0426 14:18:09.229548 10426 solver.cpp:239] Iteration 37100 (2.78252 iter/s, 35.9387s/100 iters), loss = 2.34065
+I0426 14:18:09.229632 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 14:18:09.229645 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34065 (* 1 = 2.34065 loss)
+I0426 14:18:09.229658 10426 sgd_solver.cpp:112] Iteration 37100, lr = 0.01
+I0426 14:18:45.179330 10426 solver.cpp:239] Iteration 37200 (2.78165 iter/s, 35.9499s/100 iters), loss = 2.23758
+I0426 14:18:45.179425 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 14:18:45.179436 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.23758 (* 1 = 2.23758 loss)
+I0426 14:18:45.179448 10426 sgd_solver.cpp:112] Iteration 37200, lr = 0.01
+I0426 14:19:21.139953 10426 solver.cpp:239] Iteration 37300 (2.78081 iter/s, 35.9607s/100 iters), loss = 2.52242
+I0426 14:19:21.140050 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:19:21.140064 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.52242 (* 1 = 2.52242 loss)
+I0426 14:19:21.140072 10426 sgd_solver.cpp:112] Iteration 37300, lr = 0.01
+I0426 14:19:57.077527 10426 solver.cpp:239] Iteration 37400 (2.7826 iter/s, 35.9377s/100 iters), loss = 2.6811
+I0426 14:19:57.077623 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 14:19:57.077636 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6811 (* 1 = 2.6811 loss)
+I0426 14:19:57.077644 10426 sgd_solver.cpp:112] Iteration 37400, lr = 0.01
+I0426 14:20:33.032256 10426 solver.cpp:239] Iteration 37500 (2.78127 iter/s, 35.9548s/100 iters), loss = 2.67443
+I0426 14:20:33.032347 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 14:20:33.032361 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.67443 (* 1 = 2.67443 loss)
+I0426 14:20:33.032371 10426 sgd_solver.cpp:112] Iteration 37500, lr = 0.01
+I0426 14:20:35.557690 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:21:08.996542 10426 solver.cpp:239] Iteration 37600 (2.78053 iter/s, 35.9644s/100 iters), loss = 2.76881
+I0426 14:21:08.996642 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:21:08.996654 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.76881 (* 1 = 2.76881 loss)
+I0426 14:21:08.996665 10426 sgd_solver.cpp:112] Iteration 37600, lr = 0.01
+I0426 14:21:44.969605 10426 solver.cpp:239] Iteration 37700 (2.77985 iter/s, 35.9731s/100 iters), loss = 2.38845
+I0426 14:21:44.969691 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:21:44.969703 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.38845 (* 1 = 2.38845 loss)
+I0426 14:21:44.969713 10426 sgd_solver.cpp:112] Iteration 37700, lr = 0.01
+I0426 14:22:20.923460 10426 solver.cpp:239] Iteration 37800 (2.78134 iter/s, 35.9539s/100 iters), loss = 2.3052
+I0426 14:22:20.923548 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:22:20.923560 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.3052 (* 1 = 2.3052 loss)
+I0426 14:22:20.923570 10426 sgd_solver.cpp:112] Iteration 37800, lr = 0.01
+I0426 14:22:56.869465 10426 solver.cpp:239] Iteration 37900 (2.78194 iter/s, 35.9461s/100 iters), loss = 2.12628
+I0426 14:22:56.869571 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 14:22:56.869585 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.12628 (* 1 = 2.12628 loss)
+I0426 14:22:56.869596 10426 sgd_solver.cpp:112] Iteration 37900, lr = 0.01
+I0426 14:23:32.830024 10426 solver.cpp:239] Iteration 38000 (2.78082 iter/s, 35.9606s/100 iters), loss = 2.26719
+I0426 14:23:32.830118 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 14:23:32.830132 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.26719 (* 1 = 2.26719 loss)
+I0426 14:23:32.830142 10426 sgd_solver.cpp:112] Iteration 38000, lr = 0.01
+I0426 14:24:08.768321 10426 solver.cpp:239] Iteration 38100 (2.78254 iter/s, 35.9384s/100 iters), loss = 2.87675
+I0426 14:24:08.771507 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 14:24:08.771519 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.87675 (* 1 = 2.87675 loss)
+I0426 14:24:08.771529 10426 sgd_solver.cpp:112] Iteration 38100, lr = 0.01
+I0426 14:24:44.692286 10426 solver.cpp:239] Iteration 38200 (2.78389 iter/s, 35.9209s/100 iters), loss = 2.87667
+I0426 14:24:44.692390 10426 solver.cpp:258]     Train net output #0: accuracy = 0.53125
+I0426 14:24:44.692401 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.87667 (* 1 = 2.87667 loss)
+I0426 14:24:44.692411 10426 sgd_solver.cpp:112] Iteration 38200, lr = 0.01
+I0426 14:25:05.188720 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:25:20.627660 10426 solver.cpp:239] Iteration 38300 (2.78277 iter/s, 35.9354s/100 iters), loss = 2.59692
+I0426 14:25:20.627749 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 14:25:20.627761 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.59692 (* 1 = 2.59692 loss)
+I0426 14:25:20.627770 10426 sgd_solver.cpp:112] Iteration 38300, lr = 0.01
+I0426 14:25:56.573580 10426 solver.cpp:239] Iteration 38400 (2.78195 iter/s, 35.946s/100 iters), loss = 2.55045
+I0426 14:25:56.573670 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:25:56.573683 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.55045 (* 1 = 2.55045 loss)
+I0426 14:25:56.573693 10426 sgd_solver.cpp:112] Iteration 38400, lr = 0.01
+I0426 14:26:32.519523 10426 solver.cpp:239] Iteration 38500 (2.78195 iter/s, 35.946s/100 iters), loss = 2.59973
+I0426 14:26:32.519616 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:26:32.519629 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.59973 (* 1 = 2.59973 loss)
+I0426 14:26:32.519639 10426 sgd_solver.cpp:112] Iteration 38500, lr = 0.01
+I0426 14:27:08.467141 10426 solver.cpp:239] Iteration 38600 (2.78182 iter/s, 35.9477s/100 iters), loss = 1.99279
+I0426 14:27:08.467231 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 14:27:08.467242 10426 solver.cpp:258]     Train net output #1: softmax_loss = 1.99279 (* 1 = 1.99279 loss)
+I0426 14:27:08.467252 10426 sgd_solver.cpp:112] Iteration 38600, lr = 0.01
+I0426 14:27:44.412498 10426 solver.cpp:239] Iteration 38700 (2.782 iter/s, 35.9454s/100 iters), loss = 2.54634
+I0426 14:27:44.412591 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:27:44.412605 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54634 (* 1 = 2.54634 loss)
+I0426 14:27:44.412614 10426 sgd_solver.cpp:112] Iteration 38700, lr = 0.01
+I0426 14:28:20.361074 10426 solver.cpp:239] Iteration 38800 (2.78175 iter/s, 35.9486s/100 iters), loss = 2.67074
+I0426 14:28:20.361168 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:28:20.361181 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.67074 (* 1 = 2.67074 loss)
+I0426 14:28:20.361189 10426 sgd_solver.cpp:112] Iteration 38800, lr = 0.01
+I0426 14:28:56.319169 10426 solver.cpp:239] Iteration 38900 (2.78101 iter/s, 35.9582s/100 iters), loss = 2.65365
+I0426 14:28:56.319273 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:28:56.319285 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.65365 (* 1 = 2.65365 loss)
+I0426 14:28:56.319295 10426 sgd_solver.cpp:112] Iteration 38900, lr = 0.01
+I0426 14:29:32.264542 10426 solver.cpp:239] Iteration 39000 (2.782 iter/s, 35.9454s/100 iters), loss = 2.66026
+I0426 14:29:32.264658 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 14:29:32.264672 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.66026 (* 1 = 2.66026 loss)
+I0426 14:29:32.264681 10426 sgd_solver.cpp:112] Iteration 39000, lr = 0.01
+I0426 14:29:34.794725 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:30:08.191510 10426 solver.cpp:239] Iteration 39100 (2.78342 iter/s, 35.927s/100 iters), loss = 2.50997
+I0426 14:30:08.191613 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:30:08.191625 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.50997 (* 1 = 2.50997 loss)
+I0426 14:30:08.191635 10426 sgd_solver.cpp:112] Iteration 39100, lr = 0.01
+I0426 14:30:44.147301 10426 solver.cpp:239] Iteration 39200 (2.78119 iter/s, 35.9558s/100 iters), loss = 2.59482
+I0426 14:30:44.147394 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 14:30:44.147406 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.59482 (* 1 = 2.59482 loss)
+I0426 14:30:44.147415 10426 sgd_solver.cpp:112] Iteration 39200, lr = 0.01
+I0426 14:31:20.115291 10426 solver.cpp:239] Iteration 39300 (2.78025 iter/s, 35.968s/100 iters), loss = 3.14742
+I0426 14:31:20.115387 10426 solver.cpp:258]     Train net output #0: accuracy = 0.507812
+I0426 14:31:20.115401 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.14742 (* 1 = 3.14742 loss)
+I0426 14:31:20.115411 10426 sgd_solver.cpp:112] Iteration 39300, lr = 0.01
+I0426 14:31:56.075469 10426 solver.cpp:239] Iteration 39400 (2.78085 iter/s, 35.9602s/100 iters), loss = 2.70108
+I0426 14:31:56.075565 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:31:56.075577 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.70108 (* 1 = 2.70108 loss)
+I0426 14:31:56.075587 10426 sgd_solver.cpp:112] Iteration 39400, lr = 0.01
+I0426 14:32:32.038661 10426 solver.cpp:239] Iteration 39500 (2.78062 iter/s, 35.9632s/100 iters), loss = 2.39634
+I0426 14:32:32.038745 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 14:32:32.038758 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.39634 (* 1 = 2.39634 loss)
+I0426 14:32:32.038769 10426 sgd_solver.cpp:112] Iteration 39500, lr = 0.01
+I0426 14:33:08.008633 10426 solver.cpp:239] Iteration 39600 (2.78009 iter/s, 35.97s/100 iters), loss = 2.97055
+I0426 14:33:08.008720 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 14:33:08.008733 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.97055 (* 1 = 2.97055 loss)
+I0426 14:33:08.008744 10426 sgd_solver.cpp:112] Iteration 39600, lr = 0.01
+I0426 14:33:43.978039 10426 solver.cpp:239] Iteration 39700 (2.78014 iter/s, 35.9695s/100 iters), loss = 2.6934
+I0426 14:33:43.978126 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:33:43.978137 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6934 (* 1 = 2.6934 loss)
+I0426 14:33:43.978148 10426 sgd_solver.cpp:112] Iteration 39700, lr = 0.01
+I0426 14:34:04.846978 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:34:19.941612 10426 solver.cpp:239] Iteration 39800 (2.78059 iter/s, 35.9636s/100 iters), loss = 2.57981
+I0426 14:34:19.941707 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:34:19.941720 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.57981 (* 1 = 2.57981 loss)
+I0426 14:34:19.941730 10426 sgd_solver.cpp:112] Iteration 39800, lr = 0.01
+I0426 14:34:55.902534 10426 solver.cpp:239] Iteration 39900 (2.78079 iter/s, 35.961s/100 iters), loss = 2.41499
+I0426 14:34:55.902626 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:34:55.902638 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.41499 (* 1 = 2.41499 loss)
+I0426 14:34:55.902648 10426 sgd_solver.cpp:112] Iteration 39900, lr = 0.01
+I0426 14:35:31.496825 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_40000.caffemodel
+I0426 14:35:31.527241 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_40000.solverstate
+I0426 14:35:31.894891 10426 solver.cpp:239] Iteration 40000 (2.77836 iter/s, 35.9924s/100 iters), loss = 2.6344
+I0426 14:35:31.894923 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 14:35:31.894933 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6344 (* 1 = 2.6344 loss)
+I0426 14:35:31.894942 10426 sgd_solver.cpp:112] Iteration 40000, lr = 0.01
+I0426 14:36:09.150387 10426 solver.cpp:239] Iteration 40100 (2.68416 iter/s, 37.2556s/100 iters), loss = 3.01548
+I0426 14:36:09.150585 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 14:36:09.150624 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.01548 (* 1 = 3.01548 loss)
+I0426 14:36:09.150655 10426 sgd_solver.cpp:112] Iteration 40100, lr = 0.01
+I0426 14:36:48.719794 10426 solver.cpp:239] Iteration 40200 (2.52721 iter/s, 39.5694s/100 iters), loss = 2.54689
+I0426 14:36:48.719899 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 14:36:48.719911 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54689 (* 1 = 2.54689 loss)
+I0426 14:36:48.719921 10426 sgd_solver.cpp:112] Iteration 40200, lr = 0.01
+I0426 14:37:29.552445 10426 solver.cpp:239] Iteration 40300 (2.44902 iter/s, 40.8326s/100 iters), loss = 2.93733
+I0426 14:37:29.552711 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:37:29.552722 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.93733 (* 1 = 2.93733 loss)
+I0426 14:37:29.552732 10426 sgd_solver.cpp:112] Iteration 40300, lr = 0.01
+I0426 14:38:10.341950 10426 solver.cpp:239] Iteration 40400 (2.45162 iter/s, 40.7893s/100 iters), loss = 2.55743
+I0426 14:38:10.342041 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:38:10.342053 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.55743 (* 1 = 2.55743 loss)
+I0426 14:38:10.342063 10426 sgd_solver.cpp:112] Iteration 40400, lr = 0.01
+I0426 14:38:51.164235 10426 solver.cpp:239] Iteration 40500 (2.44964 iter/s, 40.8223s/100 iters), loss = 2.60761
+I0426 14:38:51.164326 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:38:51.164338 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.60761 (* 1 = 2.60761 loss)
+I0426 14:38:51.164348 10426 sgd_solver.cpp:112] Iteration 40500, lr = 0.01
+I0426 14:38:54.445493 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:39:31.976896 10426 solver.cpp:239] Iteration 40600 (2.45022 iter/s, 40.8127s/100 iters), loss = 2.84643
+I0426 14:39:31.977339 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:39:31.977352 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.84643 (* 1 = 2.84643 loss)
+I0426 14:39:31.977362 10426 sgd_solver.cpp:112] Iteration 40600, lr = 0.01
+I0426 14:40:12.782632 10426 solver.cpp:239] Iteration 40700 (2.45066 iter/s, 40.8054s/100 iters), loss = 2.75479
+I0426 14:40:12.782740 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:40:12.782752 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.75479 (* 1 = 2.75479 loss)
+I0426 14:40:12.782763 10426 sgd_solver.cpp:112] Iteration 40700, lr = 0.01
+I0426 14:40:53.575449 10426 solver.cpp:239] Iteration 40800 (2.45141 iter/s, 40.7928s/100 iters), loss = 2.60418
+I0426 14:40:53.575554 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:40:53.575567 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.60418 (* 1 = 2.60418 loss)
+I0426 14:40:53.575577 10426 sgd_solver.cpp:112] Iteration 40800, lr = 0.01
+I0426 14:41:34.373756 10426 solver.cpp:239] Iteration 40900 (2.45108 iter/s, 40.7983s/100 iters), loss = 2.38947
+I0426 14:41:34.373916 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 14:41:34.373929 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.38947 (* 1 = 2.38947 loss)
+I0426 14:41:34.373939 10426 sgd_solver.cpp:112] Iteration 40900, lr = 0.01
+I0426 14:42:15.168727 10426 solver.cpp:239] Iteration 41000 (2.45129 iter/s, 40.7949s/100 iters), loss = 2.11339
+I0426 14:42:15.168830 10426 solver.cpp:258]     Train net output #0: accuracy = 0.734375
+I0426 14:42:15.168843 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.11339 (* 1 = 2.11339 loss)
+I0426 14:42:15.168853 10426 sgd_solver.cpp:112] Iteration 41000, lr = 0.01
+I0426 14:42:55.933475 10426 solver.cpp:239] Iteration 41100 (2.4531 iter/s, 40.7647s/100 iters), loss = 2.08821
+I0426 14:42:55.933567 10426 solver.cpp:258]     Train net output #0: accuracy = 0.703125
+I0426 14:42:55.933578 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.08821 (* 1 = 2.08821 loss)
+I0426 14:42:55.933588 10426 sgd_solver.cpp:112] Iteration 41100, lr = 0.01
+I0426 14:43:36.720275 10426 solver.cpp:239] Iteration 41200 (2.45177 iter/s, 40.7868s/100 iters), loss = 2.89593
+I0426 14:43:36.720377 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 14:43:36.720389 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.89593 (* 1 = 2.89593 loss)
+I0426 14:43:36.720399 10426 sgd_solver.cpp:112] Iteration 41200, lr = 0.01
+I0426 14:44:00.406395 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:44:17.539460 10426 solver.cpp:239] Iteration 41300 (2.44983 iter/s, 40.8192s/100 iters), loss = 2.24178
+I0426 14:44:17.539566 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 14:44:17.539577 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24178 (* 1 = 2.24178 loss)
+I0426 14:44:17.539587 10426 sgd_solver.cpp:112] Iteration 41300, lr = 0.01
+I0426 14:44:58.376652 10426 solver.cpp:239] Iteration 41400 (2.44875 iter/s, 40.8372s/100 iters), loss = 2.33393
+I0426 14:44:58.378005 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 14:44:58.378017 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33393 (* 1 = 2.33393 loss)
+I0426 14:44:58.378027 10426 sgd_solver.cpp:112] Iteration 41400, lr = 0.01
+I0426 14:45:39.201232 10426 solver.cpp:239] Iteration 41500 (2.44958 iter/s, 40.8233s/100 iters), loss = 2.30522
+I0426 14:45:39.201339 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:45:39.201351 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.30522 (* 1 = 2.30522 loss)
+I0426 14:45:39.201361 10426 sgd_solver.cpp:112] Iteration 41500, lr = 0.01
+I0426 14:46:20.070289 10426 solver.cpp:239] Iteration 41600 (2.44683 iter/s, 40.8691s/100 iters), loss = 2.31198
+I0426 14:46:20.070390 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 14:46:20.070402 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.31198 (* 1 = 2.31198 loss)
+I0426 14:46:20.070413 10426 sgd_solver.cpp:112] Iteration 41600, lr = 0.01
+I0426 14:47:00.919966 10426 solver.cpp:239] Iteration 41700 (2.44796 iter/s, 40.8504s/100 iters), loss = 2.53457
+I0426 14:47:00.920066 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:47:00.920078 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53457 (* 1 = 2.53457 loss)
+I0426 14:47:00.920089 10426 sgd_solver.cpp:112] Iteration 41700, lr = 0.01
+I0426 14:47:41.776396 10426 solver.cpp:239] Iteration 41800 (2.44755 iter/s, 40.8571s/100 iters), loss = 2.39148
+I0426 14:47:41.776500 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 14:47:41.776512 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.39148 (* 1 = 2.39148 loss)
+I0426 14:47:41.776522 10426 sgd_solver.cpp:112] Iteration 41800, lr = 0.01
+I0426 14:48:22.671936 10426 solver.cpp:239] Iteration 41900 (2.44522 iter/s, 40.8962s/100 iters), loss = 2.44582
+I0426 14:48:22.672024 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:48:22.672040 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.44582 (* 1 = 2.44582 loss)
+I0426 14:48:22.672056 10426 sgd_solver.cpp:112] Iteration 41900, lr = 0.01
+I0426 14:49:03.529163 10426 solver.cpp:239] Iteration 42000 (2.44751 iter/s, 40.8578s/100 iters), loss = 2.76042
+I0426 14:49:03.529284 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:49:03.529301 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.76042 (* 1 = 2.76042 loss)
+I0426 14:49:03.529317 10426 sgd_solver.cpp:112] Iteration 42000, lr = 0.01
+I0426 14:49:07.226629 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:49:44.377514 10426 solver.cpp:239] Iteration 42100 (2.44805 iter/s, 40.8488s/100 iters), loss = 3.04903
+I0426 14:49:44.377605 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:49:44.377617 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.04903 (* 1 = 3.04903 loss)
+I0426 14:49:44.377629 10426 sgd_solver.cpp:112] Iteration 42100, lr = 0.01
+I0426 14:50:25.200783 10426 solver.cpp:239] Iteration 42200 (2.44955 iter/s, 40.8238s/100 iters), loss = 2.56165
+I0426 14:50:25.200883 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:50:25.200899 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.56165 (* 1 = 2.56165 loss)
+I0426 14:50:25.200911 10426 sgd_solver.cpp:112] Iteration 42200, lr = 0.01
+I0426 14:51:06.037520 10426 solver.cpp:239] Iteration 42300 (2.44875 iter/s, 40.8372s/100 iters), loss = 2.46311
+I0426 14:51:06.037626 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:51:06.037642 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.46311 (* 1 = 2.46311 loss)
+I0426 14:51:06.037654 10426 sgd_solver.cpp:112] Iteration 42300, lr = 0.01
+I0426 14:51:46.934311 10426 solver.cpp:239] Iteration 42400 (2.44515 iter/s, 40.8972s/100 iters), loss = 2.29317
+I0426 14:51:46.934406 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 14:51:46.934418 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.29317 (* 1 = 2.29317 loss)
+I0426 14:51:46.934428 10426 sgd_solver.cpp:112] Iteration 42400, lr = 0.01
+I0426 14:52:27.846833 10426 solver.cpp:239] Iteration 42500 (2.44421 iter/s, 40.9129s/100 iters), loss = 2.1925
+I0426 14:52:27.846925 10426 solver.cpp:258]     Train net output #0: accuracy = 0.710938
+I0426 14:52:27.846937 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.1925 (* 1 = 2.1925 loss)
+I0426 14:52:27.846947 10426 sgd_solver.cpp:112] Iteration 42500, lr = 0.01
+I0426 14:53:08.733963 10426 solver.cpp:239] Iteration 42600 (2.44573 iter/s, 40.8875s/100 iters), loss = 2.92895
+I0426 14:53:08.734045 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:53:08.734057 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.92895 (* 1 = 2.92895 loss)
+I0426 14:53:08.734071 10426 sgd_solver.cpp:112] Iteration 42600, lr = 0.01
+I0426 14:53:49.629921 10426 solver.cpp:239] Iteration 42700 (2.44521 iter/s, 40.8963s/100 iters), loss = 2.12131
+I0426 14:53:49.630022 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:53:49.630035 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.12131 (* 1 = 2.12131 loss)
+I0426 14:53:49.630049 10426 sgd_solver.cpp:112] Iteration 42700, lr = 0.01
+I0426 14:54:13.769701 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:54:30.522593 10426 solver.cpp:239] Iteration 42800 (2.44541 iter/s, 40.893s/100 iters), loss = 2.14383
+I0426 14:54:30.522794 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:54:30.522806 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.14383 (* 1 = 2.14383 loss)
+I0426 14:54:30.522821 10426 sgd_solver.cpp:112] Iteration 42800, lr = 0.01
+I0426 14:55:11.389564 10426 solver.cpp:239] Iteration 42900 (2.44695 iter/s, 40.8672s/100 iters), loss = 2.2137
+I0426 14:55:11.390710 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 14:55:11.390722 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.2137 (* 1 = 2.2137 loss)
+I0426 14:55:11.390733 10426 sgd_solver.cpp:112] Iteration 42900, lr = 0.01
+I0426 14:55:52.272694 10426 solver.cpp:239] Iteration 43000 (2.44604 iter/s, 40.8824s/100 iters), loss = 2.93152
+I0426 14:55:52.272809 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 14:55:52.272825 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.93152 (* 1 = 2.93152 loss)
+I0426 14:55:52.272837 10426 sgd_solver.cpp:112] Iteration 43000, lr = 0.01
+I0426 14:56:33.158323 10426 solver.cpp:239] Iteration 43100 (2.44583 iter/s, 40.8859s/100 iters), loss = 3.16643
+I0426 14:56:33.158428 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 14:56:33.158444 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.16643 (* 1 = 3.16643 loss)
+I0426 14:56:33.158457 10426 sgd_solver.cpp:112] Iteration 43100, lr = 0.01
+I0426 14:57:14.033661 10426 solver.cpp:239] Iteration 43200 (2.44645 iter/s, 40.8756s/100 iters), loss = 2.56404
+I0426 14:57:14.033759 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 14:57:14.033774 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.56404 (* 1 = 2.56404 loss)
+I0426 14:57:14.033787 10426 sgd_solver.cpp:112] Iteration 43200, lr = 0.01
+I0426 14:57:54.910812 10426 solver.cpp:239] Iteration 43300 (2.44634 iter/s, 40.8774s/100 iters), loss = 2.58136
+I0426 14:57:54.910902 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 14:57:54.910915 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.58136 (* 1 = 2.58136 loss)
+I0426 14:57:54.910925 10426 sgd_solver.cpp:112] Iteration 43300, lr = 0.01
+I0426 14:58:35.801123 10426 solver.cpp:239] Iteration 43400 (2.44555 iter/s, 40.8906s/100 iters), loss = 2.56882
+I0426 14:58:35.801213 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:58:35.801234 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.56882 (* 1 = 2.56882 loss)
+I0426 14:58:35.801244 10426 sgd_solver.cpp:112] Iteration 43400, lr = 0.01
+I0426 14:59:16.680219 10426 solver.cpp:239] Iteration 43500 (2.44622 iter/s, 40.8793s/100 iters), loss = 2.69478
+I0426 14:59:16.680318 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 14:59:16.680330 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.69478 (* 1 = 2.69478 loss)
+I0426 14:59:16.680341 10426 sgd_solver.cpp:112] Iteration 43500, lr = 0.01
+I0426 14:59:20.376474 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 14:59:57.595361 10426 solver.cpp:239] Iteration 43600 (2.44407 iter/s, 40.9154s/100 iters), loss = 2.82696
+I0426 14:59:57.595449 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 14:59:57.595461 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.82696 (* 1 = 2.82696 loss)
+I0426 14:59:57.595472 10426 sgd_solver.cpp:112] Iteration 43600, lr = 0.01
+I0426 15:00:38.529235 10426 solver.cpp:239] Iteration 43700 (2.44295 iter/s, 40.9341s/100 iters), loss = 2.07396
+I0426 15:00:38.529322 10426 solver.cpp:258]     Train net output #0: accuracy = 0.695312
+I0426 15:00:38.529335 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.07396 (* 1 = 2.07396 loss)
+I0426 15:00:38.529345 10426 sgd_solver.cpp:112] Iteration 43700, lr = 0.01
+I0426 15:01:19.423470 10426 solver.cpp:239] Iteration 43800 (2.44532 iter/s, 40.8944s/100 iters), loss = 2.53756
+I0426 15:01:19.423563 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:01:19.423575 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53756 (* 1 = 2.53756 loss)
+I0426 15:01:19.423585 10426 sgd_solver.cpp:112] Iteration 43800, lr = 0.01
+I0426 15:02:00.317642 10426 solver.cpp:239] Iteration 43900 (2.44532 iter/s, 40.8944s/100 iters), loss = 2.55531
+I0426 15:02:00.317731 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:02:00.317744 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.55531 (* 1 = 2.55531 loss)
+I0426 15:02:00.317754 10426 sgd_solver.cpp:112] Iteration 43900, lr = 0.01
+I0426 15:02:40.798801 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_44000.caffemodel
+I0426 15:02:40.829085 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_44000.solverstate
+I0426 15:02:41.238755 10426 solver.cpp:239] Iteration 44000 (2.44371 iter/s, 40.9213s/100 iters), loss = 2.58881
+I0426 15:02:41.238785 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:02:41.238795 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.58881 (* 1 = 2.58881 loss)
+I0426 15:02:41.238804 10426 sgd_solver.cpp:112] Iteration 44000, lr = 0.01
+I0426 15:03:22.126976 10426 solver.cpp:239] Iteration 44100 (2.44568 iter/s, 40.8884s/100 iters), loss = 2.54705
+I0426 15:03:22.127073 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 15:03:22.127084 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54705 (* 1 = 2.54705 loss)
+I0426 15:03:22.127094 10426 sgd_solver.cpp:112] Iteration 44100, lr = 0.01
+I0426 15:04:03.044606 10426 solver.cpp:239] Iteration 44200 (2.44392 iter/s, 40.9178s/100 iters), loss = 2.47236
+I0426 15:04:03.044687 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:04:03.044699 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.47236 (* 1 = 2.47236 loss)
+I0426 15:04:03.044709 10426 sgd_solver.cpp:112] Iteration 44200, lr = 0.01
+I0426 15:04:27.600060 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:04:43.956167 10426 solver.cpp:239] Iteration 44300 (2.44429 iter/s, 40.9117s/100 iters), loss = 2.4201
+I0426 15:04:43.956271 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:04:43.956284 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4201 (* 1 = 2.4201 loss)
+I0426 15:04:43.956293 10426 sgd_solver.cpp:112] Iteration 44300, lr = 0.01
+I0426 15:05:24.804636 10426 solver.cpp:239] Iteration 44400 (2.44806 iter/s, 40.8486s/100 iters), loss = 2.93119
+I0426 15:05:24.804738 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 15:05:24.804750 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.93119 (* 1 = 2.93119 loss)
+I0426 15:05:24.804760 10426 sgd_solver.cpp:112] Iteration 44400, lr = 0.01
+I0426 15:06:05.649245 10426 solver.cpp:239] Iteration 44500 (2.44829 iter/s, 40.8448s/100 iters), loss = 2.49621
+I0426 15:06:05.649335 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 15:06:05.649348 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.49621 (* 1 = 2.49621 loss)
+I0426 15:06:05.649358 10426 sgd_solver.cpp:112] Iteration 44500, lr = 0.01
+I0426 15:06:46.505532 10426 solver.cpp:239] Iteration 44600 (2.44759 iter/s, 40.8564s/100 iters), loss = 2.22869
+I0426 15:06:46.505620 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 15:06:46.505631 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.22869 (* 1 = 2.22869 loss)
+I0426 15:06:46.505641 10426 sgd_solver.cpp:112] Iteration 44600, lr = 0.01
+I0426 15:07:27.357203 10426 solver.cpp:239] Iteration 44700 (2.44787 iter/s, 40.8518s/100 iters), loss = 2.69255
+I0426 15:07:27.357293 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 15:07:27.357306 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.69255 (* 1 = 2.69255 loss)
+I0426 15:07:27.357316 10426 sgd_solver.cpp:112] Iteration 44700, lr = 0.01
+I0426 15:08:08.232360 10426 solver.cpp:239] Iteration 44800 (2.44647 iter/s, 40.8753s/100 iters), loss = 2.4777
+I0426 15:08:08.235318 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 15:08:08.235330 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4777 (* 1 = 2.4777 loss)
+I0426 15:08:08.235340 10426 sgd_solver.cpp:112] Iteration 44800, lr = 0.01
+I0426 15:08:49.097697 10426 solver.cpp:239] Iteration 44900 (2.44723 iter/s, 40.8626s/100 iters), loss = 2.93956
+I0426 15:08:49.097785 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 15:08:49.097797 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.93956 (* 1 = 2.93956 loss)
+I0426 15:08:49.097806 10426 sgd_solver.cpp:112] Iteration 44900, lr = 0.01
+I0426 15:09:29.972030 10426 solver.cpp:239] Iteration 45000 (2.44651 iter/s, 40.8745s/100 iters), loss = 2.27786
+I0426 15:09:29.972143 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:09:29.972156 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.27786 (* 1 = 2.27786 loss)
+I0426 15:09:29.972165 10426 sgd_solver.cpp:112] Iteration 45000, lr = 0.01
+I0426 15:09:34.078214 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:10:10.852433 10426 solver.cpp:239] Iteration 45100 (2.44615 iter/s, 40.8805s/100 iters), loss = 2.29974
+I0426 15:10:10.852555 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:10:10.852566 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.29974 (* 1 = 2.29974 loss)
+I0426 15:10:10.852576 10426 sgd_solver.cpp:112] Iteration 45100, lr = 0.01
+I0426 15:10:51.163637 10426 solver.cpp:239] Iteration 45200 (2.48069 iter/s, 40.3113s/100 iters), loss = 2.43501
+I0426 15:10:51.163929 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:10:51.163942 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.43501 (* 1 = 2.43501 loss)
+I0426 15:10:51.163952 10426 sgd_solver.cpp:112] Iteration 45200, lr = 0.01
+I0426 15:11:27.107903 10426 solver.cpp:239] Iteration 45300 (2.78209 iter/s, 35.9442s/100 iters), loss = 2.6173
+I0426 15:11:27.107990 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:11:27.108002 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6173 (* 1 = 2.6173 loss)
+I0426 15:11:27.108011 10426 sgd_solver.cpp:112] Iteration 45300, lr = 0.01
+I0426 15:12:03.064222 10426 solver.cpp:239] Iteration 45400 (2.78114 iter/s, 35.9565s/100 iters), loss = 2.20245
+I0426 15:12:03.064311 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:12:03.064322 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.20245 (* 1 = 2.20245 loss)
+I0426 15:12:03.064332 10426 sgd_solver.cpp:112] Iteration 45400, lr = 0.01
+I0426 15:12:39.002351 10426 solver.cpp:239] Iteration 45500 (2.78255 iter/s, 35.9383s/100 iters), loss = 2.63138
+I0426 15:12:39.002451 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 15:12:39.002465 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.63138 (* 1 = 2.63138 loss)
+I0426 15:12:39.002475 10426 sgd_solver.cpp:112] Iteration 45500, lr = 0.01
+I0426 15:13:14.916643 10426 solver.cpp:239] Iteration 45600 (2.7844 iter/s, 35.9144s/100 iters), loss = 2.80306
+I0426 15:13:14.916740 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:13:14.916752 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.80306 (* 1 = 2.80306 loss)
+I0426 15:13:14.916762 10426 sgd_solver.cpp:112] Iteration 45600, lr = 0.01
+I0426 15:13:50.873225 10426 solver.cpp:239] Iteration 45700 (2.78112 iter/s, 35.9567s/100 iters), loss = 3.00101
+I0426 15:13:50.873359 10426 solver.cpp:258]     Train net output #0: accuracy = 0.539062
+I0426 15:13:50.873373 10426 solver.cpp:258]     Train net output #1: softmax_loss = 3.00101 (* 1 = 3.00101 loss)
+I0426 15:13:50.873383 10426 sgd_solver.cpp:112] Iteration 45700, lr = 0.01
+I0426 15:14:12.468452 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:14:26.831506 10426 solver.cpp:239] Iteration 45800 (2.78099 iter/s, 35.9584s/100 iters), loss = 2.42839
+I0426 15:14:26.831642 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:14:26.831655 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42839 (* 1 = 2.42839 loss)
+I0426 15:14:26.831665 10426 sgd_solver.cpp:112] Iteration 45800, lr = 0.01
+I0426 15:15:02.793269 10426 solver.cpp:239] Iteration 45900 (2.78072 iter/s, 35.9619s/100 iters), loss = 2.74291
+I0426 15:15:02.793362 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:15:02.793375 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.74291 (* 1 = 2.74291 loss)
+I0426 15:15:02.793385 10426 sgd_solver.cpp:112] Iteration 45900, lr = 0.01
+I0426 15:15:38.760226 10426 solver.cpp:239] Iteration 46000 (2.78032 iter/s, 35.9671s/100 iters), loss = 2.45013
+I0426 15:15:38.760342 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:15:38.760355 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.45013 (* 1 = 2.45013 loss)
+I0426 15:15:38.760366 10426 sgd_solver.cpp:112] Iteration 46000, lr = 0.01
+I0426 15:16:14.718734 10426 solver.cpp:239] Iteration 46100 (2.78097 iter/s, 35.9586s/100 iters), loss = 2.94394
+I0426 15:16:14.718837 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 15:16:14.718849 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.94394 (* 1 = 2.94394 loss)
+I0426 15:16:14.718860 10426 sgd_solver.cpp:112] Iteration 46100, lr = 0.01
+I0426 15:16:50.692801 10426 solver.cpp:239] Iteration 46200 (2.77977 iter/s, 35.9742s/100 iters), loss = 2.80137
+I0426 15:16:50.692890 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 15:16:50.692903 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.80137 (* 1 = 2.80137 loss)
+I0426 15:16:50.692914 10426 sgd_solver.cpp:112] Iteration 46200, lr = 0.01
+I0426 15:17:26.659777 10426 solver.cpp:239] Iteration 46300 (2.78032 iter/s, 35.9671s/100 iters), loss = 2.33439
+I0426 15:17:26.659873 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:17:26.659884 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33439 (* 1 = 2.33439 loss)
+I0426 15:17:26.659894 10426 sgd_solver.cpp:112] Iteration 46300, lr = 0.01
+I0426 15:18:02.624182 10426 solver.cpp:239] Iteration 46400 (2.78052 iter/s, 35.9645s/100 iters), loss = 2.57484
+I0426 15:18:02.624274 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:18:02.624285 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.57484 (* 1 = 2.57484 loss)
+I0426 15:18:02.624295 10426 sgd_solver.cpp:112] Iteration 46400, lr = 0.01
+I0426 15:18:38.593397 10426 solver.cpp:239] Iteration 46500 (2.78015 iter/s, 35.9693s/100 iters), loss = 2.6764
+I0426 15:18:38.593482 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 15:18:38.593493 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6764 (* 1 = 2.6764 loss)
+I0426 15:18:38.593503 10426 sgd_solver.cpp:112] Iteration 46500, lr = 0.01
+I0426 15:18:42.558210 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:19:14.556924 10426 solver.cpp:239] Iteration 46600 (2.78058 iter/s, 35.9637s/100 iters), loss = 2.92642
+I0426 15:19:14.557026 10426 solver.cpp:258]     Train net output #0: accuracy = 0.546875
+I0426 15:19:14.557039 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.92642 (* 1 = 2.92642 loss)
+I0426 15:19:14.557049 10426 sgd_solver.cpp:112] Iteration 46600, lr = 0.01
+I0426 15:19:50.536114 10426 solver.cpp:239] Iteration 46700 (2.77938 iter/s, 35.9793s/100 iters), loss = 2.75597
+I0426 15:19:50.536211 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:19:50.536223 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.75597 (* 1 = 2.75597 loss)
+I0426 15:19:50.536234 10426 sgd_solver.cpp:112] Iteration 46700, lr = 0.01
+I0426 15:20:26.502444 10426 solver.cpp:239] Iteration 46800 (2.78037 iter/s, 35.9665s/100 iters), loss = 2.42024
+I0426 15:20:26.502533 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:20:26.502545 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42024 (* 1 = 2.42024 loss)
+I0426 15:20:26.502555 10426 sgd_solver.cpp:112] Iteration 46800, lr = 0.01
+I0426 15:21:02.453735 10426 solver.cpp:239] Iteration 46900 (2.78153 iter/s, 35.9514s/100 iters), loss = 2.71322
+I0426 15:21:02.453822 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 15:21:02.453835 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.71322 (* 1 = 2.71322 loss)
+I0426 15:21:02.453843 10426 sgd_solver.cpp:112] Iteration 46900, lr = 0.01
+I0426 15:21:38.410215 10426 solver.cpp:239] Iteration 47000 (2.78113 iter/s, 35.9566s/100 iters), loss = 2.24234
+I0426 15:21:38.410504 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:21:38.410517 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24234 (* 1 = 2.24234 loss)
+I0426 15:21:38.410527 10426 sgd_solver.cpp:112] Iteration 47000, lr = 0.01
+I0426 15:22:14.370782 10426 solver.cpp:239] Iteration 47100 (2.78083 iter/s, 35.9605s/100 iters), loss = 2.34729
+I0426 15:22:14.370875 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:22:14.370887 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34729 (* 1 = 2.34729 loss)
+I0426 15:22:14.370898 10426 sgd_solver.cpp:112] Iteration 47100, lr = 0.01
+I0426 15:22:50.326728 10426 solver.cpp:239] Iteration 47200 (2.78117 iter/s, 35.9561s/100 iters), loss = 2.96599
+I0426 15:22:50.328954 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 15:22:50.328966 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.96599 (* 1 = 2.96599 loss)
+I0426 15:22:50.328977 10426 sgd_solver.cpp:112] Iteration 47200, lr = 0.01
+I0426 15:23:12.273066 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:23:26.277382 10426 solver.cpp:239] Iteration 47300 (2.78175 iter/s, 35.9486s/100 iters), loss = 2.47964
+I0426 15:23:26.277478 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:23:26.277490 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.47964 (* 1 = 2.47964 loss)
+I0426 15:23:26.277499 10426 sgd_solver.cpp:112] Iteration 47300, lr = 0.01
+I0426 15:24:02.236382 10426 solver.cpp:239] Iteration 47400 (2.78094 iter/s, 35.9591s/100 iters), loss = 2.3454
+I0426 15:24:02.236470 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:24:02.236482 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.3454 (* 1 = 2.3454 loss)
+I0426 15:24:02.236491 10426 sgd_solver.cpp:112] Iteration 47400, lr = 0.01
+I0426 15:24:38.195471 10426 solver.cpp:239] Iteration 47500 (2.78093 iter/s, 35.9592s/100 iters), loss = 2.11477
+I0426 15:24:38.195559 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:24:38.195571 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.11477 (* 1 = 2.11477 loss)
+I0426 15:24:38.195581 10426 sgd_solver.cpp:112] Iteration 47500, lr = 0.01
+I0426 15:25:14.148020 10426 solver.cpp:239] Iteration 47600 (2.78143 iter/s, 35.9527s/100 iters), loss = 2.4293
+I0426 15:25:14.148118 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:25:14.148130 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4293 (* 1 = 2.4293 loss)
+I0426 15:25:14.148141 10426 sgd_solver.cpp:112] Iteration 47600, lr = 0.01
+I0426 15:25:50.081845 10426 solver.cpp:239] Iteration 47700 (2.78288 iter/s, 35.9339s/100 iters), loss = 2.10683
+I0426 15:25:50.082445 10426 solver.cpp:258]     Train net output #0: accuracy = 0.679688
+I0426 15:25:50.082458 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.10683 (* 1 = 2.10683 loss)
+I0426 15:25:50.082468 10426 sgd_solver.cpp:112] Iteration 47700, lr = 0.01
+I0426 15:26:26.023849 10426 solver.cpp:239] Iteration 47800 (2.78229 iter/s, 35.9416s/100 iters), loss = 2.85989
+I0426 15:26:26.023942 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 15:26:26.023954 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.85989 (* 1 = 2.85989 loss)
+I0426 15:26:26.023964 10426 sgd_solver.cpp:112] Iteration 47800, lr = 0.01
+I0426 15:27:01.966600 10426 solver.cpp:239] Iteration 47900 (2.78219 iter/s, 35.9429s/100 iters), loss = 2.23196
+I0426 15:27:01.966693 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:27:01.966706 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.23196 (* 1 = 2.23196 loss)
+I0426 15:27:01.966715 10426 sgd_solver.cpp:112] Iteration 47900, lr = 0.01
+I0426 15:27:37.560183 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_48000.caffemodel
+I0426 15:27:37.590343 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_48000.solverstate
+I0426 15:27:37.956049 10426 solver.cpp:239] Iteration 48000 (2.77858 iter/s, 35.9896s/100 iters), loss = 2.54625
+I0426 15:27:37.956066 10463 sgd_solver.cpp:50] MultiStep Status: Iteration 48000, step = 2
+I0426 15:27:37.956066 10465 sgd_solver.cpp:50] MultiStep Status: Iteration 48000, step = 2
+I0426 15:27:37.956066 10464 sgd_solver.cpp:50] MultiStep Status: Iteration 48000, step = 2
+I0426 15:27:37.956079 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 15:27:37.956107 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54625 (* 1 = 2.54625 loss)
+I0426 15:27:37.956118 10426 sgd_solver.cpp:50] MultiStep Status: Iteration 48000, step = 2
+I0426 15:27:37.956123 10426 sgd_solver.cpp:112] Iteration 48000, lr = 0.001
+I0426 15:27:41.924492 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:28:13.898049 10426 solver.cpp:239] Iteration 48100 (2.78225 iter/s, 35.9422s/100 iters), loss = 2.24576
+I0426 15:28:13.898157 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 15:28:13.898171 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24576 (* 1 = 2.24576 loss)
+I0426 15:28:13.898181 10426 sgd_solver.cpp:112] Iteration 48100, lr = 0.001
+I0426 15:28:49.839856 10426 solver.cpp:239] Iteration 48200 (2.78227 iter/s, 35.9419s/100 iters), loss = 2.16003
+I0426 15:28:49.841694 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:28:49.841707 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.16003 (* 1 = 2.16003 loss)
+I0426 15:28:49.841717 10426 sgd_solver.cpp:112] Iteration 48200, lr = 0.001
+I0426 15:29:25.799527 10426 solver.cpp:239] Iteration 48300 (2.78102 iter/s, 35.958s/100 iters), loss = 2.4819
+I0426 15:29:25.799612 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 15:29:25.799623 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4819 (* 1 = 2.4819 loss)
+I0426 15:29:25.799633 10426 sgd_solver.cpp:112] Iteration 48300, lr = 0.001
+I0426 15:30:01.755364 10426 solver.cpp:239] Iteration 48400 (2.78118 iter/s, 35.956s/100 iters), loss = 2.42759
+I0426 15:30:01.755450 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 15:30:01.755462 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42759 (* 1 = 2.42759 loss)
+I0426 15:30:01.755472 10426 sgd_solver.cpp:112] Iteration 48400, lr = 0.001
+I0426 15:30:37.713654 10426 solver.cpp:239] Iteration 48500 (2.78099 iter/s, 35.9584s/100 iters), loss = 2.0866
+I0426 15:30:37.713732 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 15:30:37.713744 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.0866 (* 1 = 2.0866 loss)
+I0426 15:30:37.713754 10426 sgd_solver.cpp:112] Iteration 48500, lr = 0.001
+I0426 15:31:13.674605 10426 solver.cpp:239] Iteration 48600 (2.78078 iter/s, 35.9611s/100 iters), loss = 2.17813
+I0426 15:31:13.674695 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 15:31:13.674707 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.17813 (* 1 = 2.17813 loss)
+I0426 15:31:13.674716 10426 sgd_solver.cpp:112] Iteration 48600, lr = 0.001
+I0426 15:31:49.647562 10426 solver.cpp:239] Iteration 48700 (2.77986 iter/s, 35.9731s/100 iters), loss = 2.24772
+I0426 15:31:49.647657 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 15:31:49.647670 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24772 (* 1 = 2.24772 loss)
+I0426 15:31:49.647680 10426 sgd_solver.cpp:112] Iteration 48700, lr = 0.001
+I0426 15:32:11.965121 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:32:25.639611 10426 solver.cpp:239] Iteration 48800 (2.77838 iter/s, 35.9922s/100 iters), loss = 2.12303
+I0426 15:32:25.639724 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:32:25.639735 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.12303 (* 1 = 2.12303 loss)
+I0426 15:32:25.639745 10426 sgd_solver.cpp:112] Iteration 48800, lr = 0.001
+I0426 15:33:01.602288 10426 solver.cpp:239] Iteration 48900 (2.78065 iter/s, 35.9628s/100 iters), loss = 2.40578
+I0426 15:33:01.602414 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 15:33:01.602427 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.40578 (* 1 = 2.40578 loss)
+I0426 15:33:01.602438 10426 sgd_solver.cpp:112] Iteration 48900, lr = 0.001
+I0426 15:33:37.571964 10426 solver.cpp:239] Iteration 49000 (2.78011 iter/s, 35.9698s/100 iters), loss = 2.59599
+I0426 15:33:37.572047 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:33:37.572060 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.59599 (* 1 = 2.59599 loss)
+I0426 15:33:37.572070 10426 sgd_solver.cpp:112] Iteration 49000, lr = 0.001
+I0426 15:34:13.538218 10426 solver.cpp:239] Iteration 49100 (2.78037 iter/s, 35.9664s/100 iters), loss = 2.43833
+I0426 15:34:13.538349 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:34:13.538362 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.43833 (* 1 = 2.43833 loss)
+I0426 15:34:13.538372 10426 sgd_solver.cpp:112] Iteration 49100, lr = 0.001
+I0426 15:34:49.501032 10426 solver.cpp:239] Iteration 49200 (2.78064 iter/s, 35.9629s/100 iters), loss = 2.29385
+I0426 15:34:49.501130 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:34:49.501143 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.29385 (* 1 = 2.29385 loss)
+I0426 15:34:49.501153 10426 sgd_solver.cpp:112] Iteration 49200, lr = 0.001
+I0426 15:35:25.491730 10426 solver.cpp:239] Iteration 49300 (2.77849 iter/s, 35.9908s/100 iters), loss = 2.41176
+I0426 15:35:25.491823 10426 solver.cpp:258]     Train net output #0: accuracy = 0.546875
+I0426 15:35:25.491835 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.41176 (* 1 = 2.41176 loss)
+I0426 15:35:25.491845 10426 sgd_solver.cpp:112] Iteration 49300, lr = 0.001
+I0426 15:36:01.471491 10426 solver.cpp:239] Iteration 49400 (2.77933 iter/s, 35.9799s/100 iters), loss = 2.52295
+I0426 15:36:01.471586 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 15:36:01.471599 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.52295 (* 1 = 2.52295 loss)
+I0426 15:36:01.471609 10426 sgd_solver.cpp:112] Iteration 49400, lr = 0.001
+I0426 15:36:37.450718 10426 solver.cpp:239] Iteration 49500 (2.77937 iter/s, 35.9793s/100 iters), loss = 2.55536
+I0426 15:36:37.451203 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 15:36:37.451216 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.55536 (* 1 = 2.55536 loss)
+I0426 15:36:37.451226 10426 sgd_solver.cpp:112] Iteration 49500, lr = 0.001
+I0426 15:36:41.781353 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:37:13.431782 10426 solver.cpp:239] Iteration 49600 (2.77926 iter/s, 35.9808s/100 iters), loss = 2.08112
+I0426 15:37:13.431874 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:37:13.431885 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.08112 (* 1 = 2.08112 loss)
+I0426 15:37:13.431895 10426 sgd_solver.cpp:112] Iteration 49600, lr = 0.001
+I0426 15:37:49.424089 10426 solver.cpp:239] Iteration 49700 (2.77836 iter/s, 35.9924s/100 iters), loss = 2.30037
+I0426 15:37:49.424178 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:37:49.424190 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.30037 (* 1 = 2.30037 loss)
+I0426 15:37:49.424201 10426 sgd_solver.cpp:112] Iteration 49700, lr = 0.001
+I0426 15:38:25.395107 10426 solver.cpp:239] Iteration 49800 (2.78001 iter/s, 35.9711s/100 iters), loss = 2.53936
+I0426 15:38:25.401770 10426 solver.cpp:258]     Train net output #0: accuracy = 0.515625
+I0426 15:38:25.401784 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53936 (* 1 = 2.53936 loss)
+I0426 15:38:25.401794 10426 sgd_solver.cpp:112] Iteration 49800, lr = 0.001
+I0426 15:39:01.373337 10426 solver.cpp:239] Iteration 49900 (2.77996 iter/s, 35.9718s/100 iters), loss = 2.37885
+I0426 15:39:01.373447 10426 solver.cpp:258]     Train net output #0: accuracy = 0.6875
+I0426 15:39:01.373461 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.37885 (* 1 = 2.37885 loss)
+I0426 15:39:01.373471 10426 sgd_solver.cpp:112] Iteration 49900, lr = 0.001
+I0426 15:39:37.328198 10426 solver.cpp:239] Iteration 50000 (2.78126 iter/s, 35.955s/100 iters), loss = 2.30255
+I0426 15:39:37.328305 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:39:37.328317 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.30255 (* 1 = 2.30255 loss)
+I0426 15:39:37.328327 10426 sgd_solver.cpp:112] Iteration 50000, lr = 0.001
+I0426 15:40:13.278553 10426 solver.cpp:239] Iteration 50100 (2.78161 iter/s, 35.9505s/100 iters), loss = 2.5183
+I0426 15:40:13.278656 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:40:13.278668 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.5183 (* 1 = 2.5183 loss)
+I0426 15:40:13.278678 10426 sgd_solver.cpp:112] Iteration 50100, lr = 0.001
+I0426 15:40:49.236253 10426 solver.cpp:239] Iteration 50200 (2.78104 iter/s, 35.9578s/100 iters), loss = 2.16213
+I0426 15:40:49.236340 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:40:49.236352 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.16213 (* 1 = 2.16213 loss)
+I0426 15:40:49.236362 10426 sgd_solver.cpp:112] Iteration 50200, lr = 0.001
+I0426 15:41:11.531455 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:41:25.169957 10426 solver.cpp:239] Iteration 50300 (2.78289 iter/s, 35.9338s/100 iters), loss = 2.64026
+I0426 15:41:25.170049 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 15:41:25.170063 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.64026 (* 1 = 2.64026 loss)
+I0426 15:41:25.170073 10426 sgd_solver.cpp:112] Iteration 50300, lr = 0.001
+I0426 15:42:01.107074 10426 solver.cpp:239] Iteration 50400 (2.78263 iter/s, 35.9372s/100 iters), loss = 2.38971
+I0426 15:42:01.107172 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:42:01.107185 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.38971 (* 1 = 2.38971 loss)
+I0426 15:42:01.107195 10426 sgd_solver.cpp:112] Iteration 50400, lr = 0.001
+I0426 15:42:37.052281 10426 solver.cpp:239] Iteration 50500 (2.782 iter/s, 35.9453s/100 iters), loss = 2.64031
+I0426 15:42:37.052374 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 15:42:37.052387 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.64031 (* 1 = 2.64031 loss)
+I0426 15:42:37.052398 10426 sgd_solver.cpp:112] Iteration 50500, lr = 0.001
+I0426 15:43:12.999861 10426 solver.cpp:239] Iteration 50600 (2.78182 iter/s, 35.9477s/100 iters), loss = 2.46155
+I0426 15:43:12.999958 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 15:43:12.999970 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.46155 (* 1 = 2.46155 loss)
+I0426 15:43:12.999980 10426 sgd_solver.cpp:112] Iteration 50600, lr = 0.001
+I0426 15:43:48.974135 10426 solver.cpp:239] Iteration 50700 (2.77976 iter/s, 35.9744s/100 iters), loss = 2.42984
+I0426 15:43:48.974237 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 15:43:48.974249 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42984 (* 1 = 2.42984 loss)
+I0426 15:43:48.974259 10426 sgd_solver.cpp:112] Iteration 50700, lr = 0.001
+I0426 15:44:24.949035 10426 solver.cpp:239] Iteration 50800 (2.77971 iter/s, 35.975s/100 iters), loss = 2.46705
+I0426 15:44:24.949162 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 15:44:24.949174 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.46705 (* 1 = 2.46705 loss)
+I0426 15:44:24.949184 10426 sgd_solver.cpp:112] Iteration 50800, lr = 0.001
+I0426 15:45:00.903374 10426 solver.cpp:239] Iteration 50900 (2.7813 iter/s, 35.9544s/100 iters), loss = 2.00264
+I0426 15:45:00.903467 10426 solver.cpp:258]     Train net output #0: accuracy = 0.710938
+I0426 15:45:00.903479 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.00264 (* 1 = 2.00264 loss)
+I0426 15:45:00.903489 10426 sgd_solver.cpp:112] Iteration 50900, lr = 0.001
+I0426 15:45:36.860678 10426 solver.cpp:239] Iteration 51000 (2.78107 iter/s, 35.9574s/100 iters), loss = 2.42174
+I0426 15:45:36.860798 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 15:45:36.860810 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42174 (* 1 = 2.42174 loss)
+I0426 15:45:36.860821 10426 sgd_solver.cpp:112] Iteration 51000, lr = 0.001
+I0426 15:45:41.543928 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:46:12.825196 10426 solver.cpp:239] Iteration 51100 (2.78051 iter/s, 35.9646s/100 iters), loss = 2.3837
+I0426 15:46:12.825307 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:46:12.825320 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.3837 (* 1 = 2.3837 loss)
+I0426 15:46:12.825330 10426 sgd_solver.cpp:112] Iteration 51100, lr = 0.001
+I0426 15:46:48.796743 10426 solver.cpp:239] Iteration 51200 (2.77997 iter/s, 35.9716s/100 iters), loss = 2.09168
+I0426 15:46:48.797605 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 15:46:48.797617 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.09168 (* 1 = 2.09168 loss)
+I0426 15:46:48.797627 10426 sgd_solver.cpp:112] Iteration 51200, lr = 0.001
+I0426 15:47:24.787493 10426 solver.cpp:239] Iteration 51300 (2.77854 iter/s, 35.9901s/100 iters), loss = 2.44499
+I0426 15:47:24.787587 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 15:47:24.787600 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.44499 (* 1 = 2.44499 loss)
+I0426 15:47:24.787609 10426 sgd_solver.cpp:112] Iteration 51300, lr = 0.001
+I0426 15:48:00.768191 10426 solver.cpp:239] Iteration 51400 (2.77926 iter/s, 35.9808s/100 iters), loss = 2.37377
+I0426 15:48:00.768286 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 15:48:00.768298 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.37377 (* 1 = 2.37377 loss)
+I0426 15:48:00.768308 10426 sgd_solver.cpp:112] Iteration 51400, lr = 0.001
+I0426 15:48:36.743494 10426 solver.cpp:239] Iteration 51500 (2.77968 iter/s, 35.9754s/100 iters), loss = 2.01155
+I0426 15:48:36.743600 10426 solver.cpp:258]     Train net output #0: accuracy = 0.6875
+I0426 15:48:36.743613 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.01155 (* 1 = 2.01155 loss)
+I0426 15:48:36.743623 10426 sgd_solver.cpp:112] Iteration 51500, lr = 0.001
+I0426 15:49:12.730046 10426 solver.cpp:239] Iteration 51600 (2.77881 iter/s, 35.9867s/100 iters), loss = 2.08548
+I0426 15:49:12.730156 10426 solver.cpp:258]     Train net output #0: accuracy = 0.679688
+I0426 15:49:12.730168 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.08548 (* 1 = 2.08548 loss)
+I0426 15:49:12.730180 10426 sgd_solver.cpp:112] Iteration 51600, lr = 0.001
+I0426 15:49:48.711797 10426 solver.cpp:239] Iteration 51700 (2.77918 iter/s, 35.9818s/100 iters), loss = 2.25669
+I0426 15:49:48.711884 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 15:49:48.711897 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.25669 (* 1 = 2.25669 loss)
+I0426 15:49:48.711907 10426 sgd_solver.cpp:112] Iteration 51700, lr = 0.001
+I0426 15:50:11.390029 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:50:24.684638 10426 solver.cpp:239] Iteration 51800 (2.77987 iter/s, 35.973s/100 iters), loss = 2.33094
+I0426 15:50:24.684736 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 15:50:24.684746 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33094 (* 1 = 2.33094 loss)
+I0426 15:50:24.684756 10426 sgd_solver.cpp:112] Iteration 51800, lr = 0.001
+I0426 15:51:00.663369 10426 solver.cpp:239] Iteration 51900 (2.77941 iter/s, 35.9788s/100 iters), loss = 2.51187
+I0426 15:51:00.663467 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:51:00.663480 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.51187 (* 1 = 2.51187 loss)
+I0426 15:51:00.663491 10426 sgd_solver.cpp:112] Iteration 51900, lr = 0.001
+I0426 15:51:36.277366 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_52000.caffemodel
+I0426 15:51:36.311345 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_52000.solverstate
+I0426 15:51:36.679704 10426 solver.cpp:239] Iteration 52000 (2.77651 iter/s, 36.0164s/100 iters), loss = 2.39582
+I0426 15:51:36.679734 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:51:36.679744 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.39582 (* 1 = 2.39582 loss)
+I0426 15:51:36.679754 10426 sgd_solver.cpp:112] Iteration 52000, lr = 0.001
+I0426 15:52:12.647600 10426 solver.cpp:239] Iteration 52100 (2.78024 iter/s, 35.9681s/100 iters), loss = 2.33643
+I0426 15:52:12.647699 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 15:52:12.647711 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33643 (* 1 = 2.33643 loss)
+I0426 15:52:12.647722 10426 sgd_solver.cpp:112] Iteration 52100, lr = 0.001
+I0426 15:52:48.618376 10426 solver.cpp:239] Iteration 52200 (2.78003 iter/s, 35.9709s/100 iters), loss = 2.14986
+I0426 15:52:48.618466 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 15:52:48.618479 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.14986 (* 1 = 2.14986 loss)
+I0426 15:52:48.618489 10426 sgd_solver.cpp:112] Iteration 52200, lr = 0.001
+I0426 15:53:24.599014 10426 solver.cpp:239] Iteration 52300 (2.77926 iter/s, 35.9808s/100 iters), loss = 2.48909
+I0426 15:53:24.599107 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 15:53:24.599119 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.48909 (* 1 = 2.48909 loss)
+I0426 15:53:24.599128 10426 sgd_solver.cpp:112] Iteration 52300, lr = 0.001
+I0426 15:54:00.555069 10426 solver.cpp:239] Iteration 52400 (2.78116 iter/s, 35.9562s/100 iters), loss = 2.58003
+I0426 15:54:00.555166 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:54:00.555178 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.58003 (* 1 = 2.58003 loss)
+I0426 15:54:00.555188 10426 sgd_solver.cpp:112] Iteration 52400, lr = 0.001
+I0426 15:54:36.524102 10426 solver.cpp:239] Iteration 52500 (2.78017 iter/s, 35.969s/100 iters), loss = 2.14443
+I0426 15:54:36.524196 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 15:54:36.524209 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.14443 (* 1 = 2.14443 loss)
+I0426 15:54:36.524219 10426 sgd_solver.cpp:112] Iteration 52500, lr = 0.001
+I0426 15:54:41.220104 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:55:12.494097 10426 solver.cpp:239] Iteration 52600 (2.78016 iter/s, 35.9691s/100 iters), loss = 2.73628
+I0426 15:55:12.494184 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:55:12.494197 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.73628 (* 1 = 2.73628 loss)
+I0426 15:55:12.494208 10426 sgd_solver.cpp:112] Iteration 52600, lr = 0.001
+I0426 15:55:48.459571 10426 solver.cpp:239] Iteration 52700 (2.78051 iter/s, 35.9647s/100 iters), loss = 2.66865
+I0426 15:55:48.459661 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 15:55:48.459674 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.66865 (* 1 = 2.66865 loss)
+I0426 15:55:48.459684 10426 sgd_solver.cpp:112] Iteration 52700, lr = 0.001
+I0426 15:56:24.425776 10426 solver.cpp:239] Iteration 52800 (2.78045 iter/s, 35.9655s/100 iters), loss = 2.24809
+I0426 15:56:24.425966 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 15:56:24.425978 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24809 (* 1 = 2.24809 loss)
+I0426 15:56:24.425987 10426 sgd_solver.cpp:112] Iteration 52800, lr = 0.001
+I0426 15:57:00.398007 10426 solver.cpp:239] Iteration 52900 (2.77998 iter/s, 35.9714s/100 iters), loss = 2.63794
+I0426 15:57:00.402302 10426 solver.cpp:258]     Train net output #0: accuracy = 0.578125
+I0426 15:57:00.402330 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.63794 (* 1 = 2.63794 loss)
+I0426 15:57:00.402341 10426 sgd_solver.cpp:112] Iteration 52900, lr = 0.001
+I0426 15:57:36.362324 10426 solver.cpp:239] Iteration 53000 (2.78091 iter/s, 35.9595s/100 iters), loss = 2.16609
+I0426 15:57:36.362419 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 15:57:36.362432 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.16609 (* 1 = 2.16609 loss)
+I0426 15:57:36.362442 10426 sgd_solver.cpp:112] Iteration 53000, lr = 0.001
+I0426 15:58:12.327833 10426 solver.cpp:239] Iteration 53100 (2.78049 iter/s, 35.9649s/100 iters), loss = 2.11754
+I0426 15:58:12.327917 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 15:58:12.327929 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.11754 (* 1 = 2.11754 loss)
+I0426 15:58:12.327939 10426 sgd_solver.cpp:112] Iteration 53100, lr = 0.001
+I0426 15:58:48.294235 10426 solver.cpp:239] Iteration 53200 (2.78042 iter/s, 35.9658s/100 iters), loss = 2.5199
+I0426 15:58:48.294315 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 15:58:48.294327 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.5199 (* 1 = 2.5199 loss)
+I0426 15:58:48.294337 10426 sgd_solver.cpp:112] Iteration 53200, lr = 0.001
+I0426 15:59:11.326598 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 15:59:24.267560 10426 solver.cpp:239] Iteration 53300 (2.77988 iter/s, 35.9728s/100 iters), loss = 2.27593
+I0426 15:59:24.267642 10426 solver.cpp:258]     Train net output #0: accuracy = 0.695312
+I0426 15:59:24.267654 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.27593 (* 1 = 2.27593 loss)
+I0426 15:59:24.267664 10426 sgd_solver.cpp:112] Iteration 53300, lr = 0.001
+I0426 16:00:00.241189 10426 solver.cpp:239] Iteration 53400 (2.77985 iter/s, 35.9731s/100 iters), loss = 2.56054
+I0426 16:00:00.243119 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:00:00.243132 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.56054 (* 1 = 2.56054 loss)
+I0426 16:00:00.243141 10426 sgd_solver.cpp:112] Iteration 53400, lr = 0.001
+I0426 16:00:36.207473 10426 solver.cpp:239] Iteration 53500 (2.78056 iter/s, 35.964s/100 iters), loss = 2.47829
+I0426 16:00:36.207569 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:00:36.207582 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.47829 (* 1 = 2.47829 loss)
+I0426 16:00:36.207592 10426 sgd_solver.cpp:112] Iteration 53500, lr = 0.001
+I0426 16:01:12.166728 10426 solver.cpp:239] Iteration 53600 (2.78096 iter/s, 35.9588s/100 iters), loss = 2.58703
+I0426 16:01:12.166833 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:01:12.166846 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.58703 (* 1 = 2.58703 loss)
+I0426 16:01:12.166857 10426 sgd_solver.cpp:112] Iteration 53600, lr = 0.001
+I0426 16:01:48.124857 10426 solver.cpp:239] Iteration 53700 (2.78105 iter/s, 35.9577s/100 iters), loss = 2.11014
+I0426 16:01:48.124941 10426 solver.cpp:258]     Train net output #0: accuracy = 0.65625
+I0426 16:01:48.124953 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.11014 (* 1 = 2.11014 loss)
+I0426 16:01:48.124967 10426 sgd_solver.cpp:112] Iteration 53700, lr = 0.001
+I0426 16:02:24.078913 10426 solver.cpp:239] Iteration 53800 (2.78136 iter/s, 35.9537s/100 iters), loss = 2.01815
+I0426 16:02:24.079006 10426 solver.cpp:258]     Train net output #0: accuracy = 0.6875
+I0426 16:02:24.079018 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.01815 (* 1 = 2.01815 loss)
+I0426 16:02:24.079031 10426 sgd_solver.cpp:112] Iteration 53800, lr = 0.001
+I0426 16:03:00.031297 10426 solver.cpp:239] Iteration 53900 (2.78149 iter/s, 35.952s/100 iters), loss = 2.14778
+I0426 16:03:00.031424 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:03:00.031437 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.14778 (* 1 = 2.14778 loss)
+I0426 16:03:00.031450 10426 sgd_solver.cpp:112] Iteration 53900, lr = 0.001
+I0426 16:03:35.978497 10426 solver.cpp:239] Iteration 54000 (2.78189 iter/s, 35.9468s/100 iters), loss = 2.33801
+I0426 16:03:35.978590 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 16:03:35.978603 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33801 (* 1 = 2.33801 loss)
+I0426 16:03:35.978613 10426 sgd_solver.cpp:112] Iteration 54000, lr = 0.001
+I0426 16:03:41.025476 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:04:11.945308 10426 solver.cpp:239] Iteration 54100 (2.78037 iter/s, 35.9665s/100 iters), loss = 2.34579
+I0426 16:04:11.945396 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:04:11.945410 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34579 (* 1 = 2.34579 loss)
+I0426 16:04:11.945420 10426 sgd_solver.cpp:112] Iteration 54100, lr = 0.001
+I0426 16:04:47.897276 10426 solver.cpp:239] Iteration 54200 (2.78151 iter/s, 35.9517s/100 iters), loss = 2.23107
+I0426 16:04:47.899233 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:04:47.899245 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.23107 (* 1 = 2.23107 loss)
+I0426 16:04:47.899256 10426 sgd_solver.cpp:112] Iteration 54200, lr = 0.001
+I0426 16:05:23.848892 10426 solver.cpp:239] Iteration 54300 (2.78168 iter/s, 35.9495s/100 iters), loss = 2.37207
+I0426 16:05:23.848990 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 16:05:23.849004 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.37207 (* 1 = 2.37207 loss)
+I0426 16:05:23.849014 10426 sgd_solver.cpp:112] Iteration 54300, lr = 0.001
+I0426 16:05:59.804111 10426 solver.cpp:239] Iteration 54400 (2.78126 iter/s, 35.9549s/100 iters), loss = 2.17711
+I0426 16:05:59.804203 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:05:59.804216 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.17711 (* 1 = 2.17711 loss)
+I0426 16:05:59.804226 10426 sgd_solver.cpp:112] Iteration 54400, lr = 0.001
+I0426 16:06:35.761862 10426 solver.cpp:239] Iteration 54500 (2.78106 iter/s, 35.9575s/100 iters), loss = 2.6268
+I0426 16:06:35.767225 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:06:35.767238 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6268 (* 1 = 2.6268 loss)
+I0426 16:06:35.767249 10426 sgd_solver.cpp:112] Iteration 54500, lr = 0.001
+I0426 16:07:11.725836 10426 solver.cpp:239] Iteration 54600 (2.78099 iter/s, 35.9585s/100 iters), loss = 2.09701
+I0426 16:07:11.725934 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:07:11.725947 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.09701 (* 1 = 2.09701 loss)
+I0426 16:07:11.725957 10426 sgd_solver.cpp:112] Iteration 54600, lr = 0.001
+I0426 16:07:47.666230 10426 solver.cpp:239] Iteration 54700 (2.7824 iter/s, 35.9402s/100 iters), loss = 2.24222
+I0426 16:07:47.666326 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 16:07:47.666338 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24222 (* 1 = 2.24222 loss)
+I0426 16:07:47.666348 10426 sgd_solver.cpp:112] Iteration 54700, lr = 0.001
+I0426 16:08:10.685719 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:08:23.604710 10426 solver.cpp:239] Iteration 54800 (2.78255 iter/s, 35.9383s/100 iters), loss = 2.79128
+I0426 16:08:23.605657 10426 solver.cpp:258]     Train net output #0: accuracy = 0.554688
+I0426 16:08:23.605669 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.79128 (* 1 = 2.79128 loss)
+I0426 16:08:23.605679 10426 sgd_solver.cpp:112] Iteration 54800, lr = 0.001
+I0426 16:08:59.546046 10426 solver.cpp:239] Iteration 54900 (2.78239 iter/s, 35.9403s/100 iters), loss = 2.24924
+I0426 16:08:59.546142 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 16:08:59.546154 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24924 (* 1 = 2.24924 loss)
+I0426 16:08:59.546164 10426 sgd_solver.cpp:112] Iteration 54900, lr = 0.001
+I0426 16:09:35.492768 10426 solver.cpp:239] Iteration 55000 (2.78191 iter/s, 35.9465s/100 iters), loss = 2.24209
+I0426 16:09:35.492878 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 16:09:35.492892 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24209 (* 1 = 2.24209 loss)
+I0426 16:09:35.492902 10426 sgd_solver.cpp:112] Iteration 55000, lr = 0.001
+I0426 16:10:11.413993 10426 solver.cpp:239] Iteration 55100 (2.78388 iter/s, 35.921s/100 iters), loss = 2.36898
+I0426 16:10:11.414086 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 16:10:11.414098 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.36898 (* 1 = 2.36898 loss)
+I0426 16:10:11.414108 10426 sgd_solver.cpp:112] Iteration 55100, lr = 0.001
+I0426 16:10:47.359788 10426 solver.cpp:239] Iteration 55200 (2.78198 iter/s, 35.9456s/100 iters), loss = 2.4369
+I0426 16:10:47.359877 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 16:10:47.359889 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4369 (* 1 = 2.4369 loss)
+I0426 16:10:47.359899 10426 sgd_solver.cpp:112] Iteration 55200, lr = 0.001
+I0426 16:11:23.294106 10426 solver.cpp:239] Iteration 55300 (2.78287 iter/s, 35.9342s/100 iters), loss = 2.52537
+I0426 16:11:23.294193 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 16:11:23.294205 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.52537 (* 1 = 2.52537 loss)
+I0426 16:11:23.294214 10426 sgd_solver.cpp:112] Iteration 55300, lr = 0.001
+I0426 16:11:59.260054 10426 solver.cpp:239] Iteration 55400 (2.78042 iter/s, 35.9658s/100 iters), loss = 2.0944
+I0426 16:11:59.260160 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 16:11:59.260172 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.0944 (* 1 = 2.0944 loss)
+I0426 16:11:59.260182 10426 sgd_solver.cpp:112] Iteration 55400, lr = 0.001
+I0426 16:12:35.217963 10426 solver.cpp:239] Iteration 55500 (2.78104 iter/s, 35.9578s/100 iters), loss = 2.34803
+I0426 16:12:35.218047 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 16:12:35.218060 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34803 (* 1 = 2.34803 loss)
+I0426 16:12:35.218070 10426 sgd_solver.cpp:112] Iteration 55500, lr = 0.001
+I0426 16:12:40.622706 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:13:11.178453 10426 solver.cpp:239] Iteration 55600 (2.78084 iter/s, 35.9604s/100 iters), loss = 2.52313
+I0426 16:13:11.178546 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:13:11.178557 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.52313 (* 1 = 2.52313 loss)
+I0426 16:13:11.178567 10426 sgd_solver.cpp:112] Iteration 55600, lr = 0.001
+I0426 16:13:47.141602 10426 solver.cpp:239] Iteration 55700 (2.78063 iter/s, 35.963s/100 iters), loss = 2.38477
+I0426 16:13:47.141705 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:13:47.141716 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.38477 (* 1 = 2.38477 loss)
+I0426 16:13:47.141726 10426 sgd_solver.cpp:112] Iteration 55700, lr = 0.001
+I0426 16:14:23.107625 10426 solver.cpp:239] Iteration 55800 (2.78041 iter/s, 35.9659s/100 iters), loss = 2.25628
+I0426 16:14:23.107712 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:14:23.107724 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.25628 (* 1 = 2.25628 loss)
+I0426 16:14:23.107733 10426 sgd_solver.cpp:112] Iteration 55800, lr = 0.001
+I0426 16:14:59.057976 10426 solver.cpp:239] Iteration 55900 (2.78162 iter/s, 35.9502s/100 iters), loss = 2.06091
+I0426 16:14:59.058068 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:14:59.058079 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.06091 (* 1 = 2.06091 loss)
+I0426 16:14:59.058089 10426 sgd_solver.cpp:112] Iteration 55900, lr = 0.001
+I0426 16:15:34.655710 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_56000.caffemodel
+I0426 16:15:34.686065 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_56000.solverstate
+I0426 16:15:35.052896 10426 solver.cpp:239] Iteration 56000 (2.77818 iter/s, 35.9948s/100 iters), loss = 2.13388
+I0426 16:15:35.052912 10463 sgd_solver.cpp:50] MultiStep Status: Iteration 56000, step = 3
+I0426 16:15:35.052913 10464 sgd_solver.cpp:50] MultiStep Status: Iteration 56000, step = 3
+I0426 16:15:35.052914 10465 sgd_solver.cpp:50] MultiStep Status: Iteration 56000, step = 3
+I0426 16:15:35.052927 10426 solver.cpp:258]     Train net output #0: accuracy = 0.679688
+I0426 16:15:35.052951 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.13388 (* 1 = 2.13388 loss)
+I0426 16:15:35.052960 10426 sgd_solver.cpp:50] MultiStep Status: Iteration 56000, step = 3
+I0426 16:15:35.052964 10426 sgd_solver.cpp:112] Iteration 56000, lr = 0.0001
+I0426 16:16:11.001427 10426 solver.cpp:239] Iteration 56100 (2.78176 iter/s, 35.9485s/100 iters), loss = 2.4745
+I0426 16:16:11.001529 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 16:16:11.001541 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.4745 (* 1 = 2.4745 loss)
+I0426 16:16:11.001551 10426 sgd_solver.cpp:112] Iteration 56100, lr = 0.0001
+I0426 16:16:46.958755 10426 solver.cpp:239] Iteration 56200 (2.78108 iter/s, 35.9572s/100 iters), loss = 2.23087
+I0426 16:16:46.958840 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:16:46.958853 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.23087 (* 1 = 2.23087 loss)
+I0426 16:16:46.958863 10426 sgd_solver.cpp:112] Iteration 56200, lr = 0.0001
+I0426 16:17:10.341058 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:17:22.903374 10426 solver.cpp:239] Iteration 56300 (2.78206 iter/s, 35.9445s/100 iters), loss = 2.49287
+I0426 16:17:22.903473 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 16:17:22.903486 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.49287 (* 1 = 2.49287 loss)
+I0426 16:17:22.903496 10426 sgd_solver.cpp:112] Iteration 56300, lr = 0.0001
+I0426 16:17:58.841897 10426 solver.cpp:239] Iteration 56400 (2.78254 iter/s, 35.9384s/100 iters), loss = 2.42749
+I0426 16:17:58.841989 10426 solver.cpp:258]     Train net output #0: accuracy = 0.5625
+I0426 16:17:58.842001 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42749 (* 1 = 2.42749 loss)
+I0426 16:17:58.842011 10426 sgd_solver.cpp:112] Iteration 56400, lr = 0.0001
+I0426 16:18:34.801518 10426 solver.cpp:239] Iteration 56500 (2.7809 iter/s, 35.9595s/100 iters), loss = 2.05936
+I0426 16:18:34.801611 10426 solver.cpp:258]     Train net output #0: accuracy = 0.695312
+I0426 16:18:34.801625 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.05936 (* 1 = 2.05936 loss)
+I0426 16:18:34.801635 10426 sgd_solver.cpp:112] Iteration 56500, lr = 0.0001
+I0426 16:19:10.768515 10426 solver.cpp:239] Iteration 56600 (2.78033 iter/s, 35.9669s/100 iters), loss = 2.21492
+I0426 16:19:10.768610 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:19:10.768622 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.21492 (* 1 = 2.21492 loss)
+I0426 16:19:10.768632 10426 sgd_solver.cpp:112] Iteration 56600, lr = 0.0001
+I0426 16:19:46.736685 10426 solver.cpp:239] Iteration 56700 (2.78024 iter/s, 35.9681s/100 iters), loss = 2.32213
+I0426 16:19:46.736773 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:19:46.736785 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.32213 (* 1 = 2.32213 loss)
+I0426 16:19:46.736795 10426 sgd_solver.cpp:112] Iteration 56700, lr = 0.0001
+I0426 16:20:22.712277 10426 solver.cpp:239] Iteration 56800 (2.77967 iter/s, 35.9755s/100 iters), loss = 2.6381
+I0426 16:20:22.712368 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 16:20:22.712381 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.6381 (* 1 = 2.6381 loss)
+I0426 16:20:22.712391 10426 sgd_solver.cpp:112] Iteration 56800, lr = 0.0001
+I0426 16:20:58.691715 10426 solver.cpp:239] Iteration 56900 (2.77937 iter/s, 35.9794s/100 iters), loss = 2.52731
+I0426 16:20:58.691828 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 16:20:58.691840 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.52731 (* 1 = 2.52731 loss)
+I0426 16:20:58.691850 10426 sgd_solver.cpp:112] Iteration 56900, lr = 0.0001
+I0426 16:21:34.672145 10426 solver.cpp:239] Iteration 57000 (2.77929 iter/s, 35.9804s/100 iters), loss = 2.21297
+I0426 16:21:34.672241 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:21:34.672255 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.21297 (* 1 = 2.21297 loss)
+I0426 16:21:34.672264 10426 sgd_solver.cpp:112] Iteration 57000, lr = 0.0001
+I0426 16:21:40.085134 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:22:10.634075 10426 solver.cpp:239] Iteration 57100 (2.78072 iter/s, 35.9619s/100 iters), loss = 2.51612
+I0426 16:22:10.634161 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 16:22:10.634173 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.51612 (* 1 = 2.51612 loss)
+I0426 16:22:10.634183 10426 sgd_solver.cpp:112] Iteration 57100, lr = 0.0001
+I0426 16:22:46.595621 10426 solver.cpp:239] Iteration 57200 (2.78075 iter/s, 35.9615s/100 iters), loss = 2.54009
+I0426 16:22:46.595706 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 16:22:46.595719 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.54009 (* 1 = 2.54009 loss)
+I0426 16:22:46.595729 10426 sgd_solver.cpp:112] Iteration 57200, lr = 0.0001
+I0426 16:23:22.549291 10426 solver.cpp:239] Iteration 57300 (2.78136 iter/s, 35.9536s/100 iters), loss = 2.53537
+I0426 16:23:22.549376 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 16:23:22.549388 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53537 (* 1 = 2.53537 loss)
+I0426 16:23:22.549398 10426 sgd_solver.cpp:112] Iteration 57300, lr = 0.0001
+I0426 16:23:58.512084 10426 solver.cpp:239] Iteration 57400 (2.78065 iter/s, 35.9628s/100 iters), loss = 2.39644
+I0426 16:23:58.512181 10426 solver.cpp:258]     Train net output #0: accuracy = 0.609375
+I0426 16:23:58.512192 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.39644 (* 1 = 2.39644 loss)
+I0426 16:23:58.512202 10426 sgd_solver.cpp:112] Iteration 57400, lr = 0.0001
+I0426 16:24:34.485899 10426 solver.cpp:239] Iteration 57500 (2.7798 iter/s, 35.9738s/100 iters), loss = 2.21906
+I0426 16:24:34.485991 10426 solver.cpp:258]     Train net output #0: accuracy = 0.671875
+I0426 16:24:34.486004 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.21906 (* 1 = 2.21906 loss)
+I0426 16:24:34.486014 10426 sgd_solver.cpp:112] Iteration 57500, lr = 0.0001
+I0426 16:25:10.447698 10426 solver.cpp:239] Iteration 57600 (2.78073 iter/s, 35.9618s/100 iters), loss = 2.16755
+I0426 16:25:10.447794 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:25:10.447808 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.16755 (* 1 = 2.16755 loss)
+I0426 16:25:10.447818 10426 sgd_solver.cpp:112] Iteration 57600, lr = 0.0001
+I0426 16:25:46.414968 10426 solver.cpp:239] Iteration 57700 (2.78031 iter/s, 35.9672s/100 iters), loss = 2.53477
+I0426 16:25:46.415066 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:25:46.415078 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53477 (* 1 = 2.53477 loss)
+I0426 16:25:46.415088 10426 sgd_solver.cpp:112] Iteration 57700, lr = 0.0001
+I0426 16:26:10.174059 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:26:22.399785 10426 solver.cpp:239] Iteration 57800 (2.77895 iter/s, 35.9848s/100 iters), loss = 2.17979
+I0426 16:26:22.399875 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:26:22.399888 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.17979 (* 1 = 2.17979 loss)
+I0426 16:26:22.399899 10426 sgd_solver.cpp:112] Iteration 57800, lr = 0.0001
+I0426 16:26:58.384229 10426 solver.cpp:239] Iteration 57900 (2.77898 iter/s, 35.9844s/100 iters), loss = 2.34302
+I0426 16:26:58.384344 10426 solver.cpp:258]     Train net output #0: accuracy = 0.625
+I0426 16:26:58.384358 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.34302 (* 1 = 2.34302 loss)
+I0426 16:26:58.384368 10426 sgd_solver.cpp:112] Iteration 57900, lr = 0.0001
+I0426 16:27:34.368326 10426 solver.cpp:239] Iteration 58000 (2.77901 iter/s, 35.984s/100 iters), loss = 2.12473
+I0426 16:27:34.368418 10426 solver.cpp:258]     Train net output #0: accuracy = 0.664062
+I0426 16:27:34.368432 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.12473 (* 1 = 2.12473 loss)
+I0426 16:27:34.368443 10426 sgd_solver.cpp:112] Iteration 58000, lr = 0.0001
+I0426 16:28:10.359952 10426 solver.cpp:239] Iteration 58100 (2.77843 iter/s, 35.9916s/100 iters), loss = 2.57758
+I0426 16:28:10.362247 10426 solver.cpp:258]     Train net output #0: accuracy = 0.617188
+I0426 16:28:10.362260 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.57758 (* 1 = 2.57758 loss)
+I0426 16:28:10.362270 10426 sgd_solver.cpp:112] Iteration 58100, lr = 0.0001
+I0426 16:28:46.335479 10426 solver.cpp:239] Iteration 58200 (2.77983 iter/s, 35.9734s/100 iters), loss = 2.42275
+I0426 16:28:46.335567 10426 solver.cpp:258]     Train net output #0: accuracy = 0.632812
+I0426 16:28:46.335579 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.42275 (* 1 = 2.42275 loss)
+I0426 16:28:46.335589 10426 sgd_solver.cpp:112] Iteration 58200, lr = 0.0001
+I0426 16:29:22.296440 10426 solver.cpp:239] Iteration 58300 (2.78076 iter/s, 35.9614s/100 iters), loss = 2.33641
+I0426 16:29:22.296531 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:29:22.296543 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.33641 (* 1 = 2.33641 loss)
+I0426 16:29:22.296555 10426 sgd_solver.cpp:112] Iteration 58300, lr = 0.0001
+I0426 16:29:58.267632 10426 solver.cpp:239] Iteration 58400 (2.77997 iter/s, 35.9716s/100 iters), loss = 2.68437
+I0426 16:29:58.267727 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:29:58.267740 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.68437 (* 1 = 2.68437 loss)
+I0426 16:29:58.267750 10426 sgd_solver.cpp:112] Iteration 58400, lr = 0.0001
+I0426 16:30:34.221830 10426 solver.cpp:239] Iteration 58500 (2.78129 iter/s, 35.9546s/100 iters), loss = 2.40201
+I0426 16:30:34.221925 10426 solver.cpp:258]     Train net output #0: accuracy = 0.585938
+I0426 16:30:34.221937 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.40201 (* 1 = 2.40201 loss)
+I0426 16:30:34.221948 10426 sgd_solver.cpp:112] Iteration 58500, lr = 0.0001
+I0426 16:30:39.990753 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:31:10.182482 10426 solver.cpp:239] Iteration 58600 (2.78079 iter/s, 35.961s/100 iters), loss = 2.5727
+I0426 16:31:10.182575 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 16:31:10.182588 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.5727 (* 1 = 2.5727 loss)
+I0426 16:31:10.182598 10426 sgd_solver.cpp:112] Iteration 58600, lr = 0.0001
+I0426 16:31:46.138458 10426 solver.cpp:239] Iteration 58700 (2.78115 iter/s, 35.9563s/100 iters), loss = 2.67073
+I0426 16:31:46.138545 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 16:31:46.138557 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.67073 (* 1 = 2.67073 loss)
+I0426 16:31:46.138567 10426 sgd_solver.cpp:112] Iteration 58700, lr = 0.0001
+I0426 16:32:22.093920 10426 solver.cpp:239] Iteration 58800 (2.78119 iter/s, 35.9558s/100 iters), loss = 2.79154
+I0426 16:32:22.094027 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 16:32:22.094039 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.79154 (* 1 = 2.79154 loss)
+I0426 16:32:22.094050 10426 sgd_solver.cpp:112] Iteration 58800, lr = 0.0001
+I0426 16:32:58.067348 10426 solver.cpp:239] Iteration 58900 (2.77981 iter/s, 35.9737s/100 iters), loss = 1.94399
+I0426 16:32:58.067463 10426 solver.cpp:258]     Train net output #0: accuracy = 0.710938
+I0426 16:32:58.067477 10426 solver.cpp:258]     Train net output #1: softmax_loss = 1.94399 (* 1 = 1.94399 loss)
+I0426 16:32:58.067488 10426 sgd_solver.cpp:112] Iteration 58900, lr = 0.0001
+I0426 16:33:34.036201 10426 solver.cpp:239] Iteration 59000 (2.78016 iter/s, 35.9691s/100 iters), loss = 2.24606
+I0426 16:33:34.036298 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:33:34.036310 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.24606 (* 1 = 2.24606 loss)
+I0426 16:33:34.036321 10426 sgd_solver.cpp:112] Iteration 59000, lr = 0.0001
+I0426 16:34:09.993827 10426 solver.cpp:239] Iteration 59100 (2.78103 iter/s, 35.9579s/100 iters), loss = 2.32458
+I0426 16:34:09.993937 10426 solver.cpp:258]     Train net output #0: accuracy = 0.601562
+I0426 16:34:09.993950 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.32458 (* 1 = 2.32458 loss)
+I0426 16:34:09.993960 10426 sgd_solver.cpp:112] Iteration 59100, lr = 0.0001
+I0426 16:34:45.947700 10426 solver.cpp:239] Iteration 59200 (2.78132 iter/s, 35.9541s/100 iters), loss = 2.21878
+I0426 16:34:45.947790 10426 solver.cpp:258]     Train net output #0: accuracy = 0.6875
+I0426 16:34:45.947803 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.21878 (* 1 = 2.21878 loss)
+I0426 16:34:45.947813 10426 sgd_solver.cpp:112] Iteration 59200, lr = 0.0001
+I0426 16:35:09.700361 10443 data_layer.cpp:73] Restarting data prefetching from start.
+I0426 16:35:21.912106 10426 solver.cpp:239] Iteration 59300 (2.78051 iter/s, 35.9646s/100 iters), loss = 2.22488
+I0426 16:35:21.912971 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 16:35:21.912982 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.22488 (* 1 = 2.22488 loss)
+I0426 16:35:21.912992 10426 sgd_solver.cpp:112] Iteration 59300, lr = 0.0001
+I0426 16:35:57.882486 10426 solver.cpp:239] Iteration 59400 (2.78011 iter/s, 35.9698s/100 iters), loss = 2.21345
+I0426 16:35:57.882580 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:35:57.882591 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.21345 (* 1 = 2.21345 loss)
+I0426 16:35:57.882602 10426 sgd_solver.cpp:112] Iteration 59400, lr = 0.0001
+I0426 16:36:33.845562 10426 solver.cpp:239] Iteration 59500 (2.78061 iter/s, 35.9633s/100 iters), loss = 2.53639
+I0426 16:36:33.845952 10426 solver.cpp:258]     Train net output #0: accuracy = 0.59375
+I0426 16:36:33.845963 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53639 (* 1 = 2.53639 loss)
+I0426 16:36:33.845974 10426 sgd_solver.cpp:112] Iteration 59500, lr = 0.0001
+I0426 16:37:09.801120 10426 solver.cpp:239] Iteration 59600 (2.78122 iter/s, 35.9555s/100 iters), loss = 2.53425
+I0426 16:37:09.801214 10426 solver.cpp:258]     Train net output #0: accuracy = 0.570312
+I0426 16:37:09.801234 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.53425 (* 1 = 2.53425 loss)
+I0426 16:37:09.801244 10426 sgd_solver.cpp:112] Iteration 59600, lr = 0.0001
+I0426 16:37:45.750488 10426 solver.cpp:239] Iteration 59700 (2.78168 iter/s, 35.9496s/100 iters), loss = 2.37189
+I0426 16:37:45.752323 10426 solver.cpp:258]     Train net output #0: accuracy = 0.640625
+I0426 16:37:45.752336 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.37189 (* 1 = 2.37189 loss)
+I0426 16:37:45.752346 10426 sgd_solver.cpp:112] Iteration 59700, lr = 0.0001
+I0426 16:38:21.700922 10426 solver.cpp:239] Iteration 59800 (2.78173 iter/s, 35.9489s/100 iters), loss = 2.17864
+I0426 16:38:21.701006 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:38:21.701019 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.17864 (* 1 = 2.17864 loss)
+I0426 16:38:21.701028 10426 sgd_solver.cpp:112] Iteration 59800, lr = 0.0001
+I0426 16:38:57.670703 10426 solver.cpp:239] Iteration 59900 (2.7801 iter/s, 35.97s/100 iters), loss = 2.28301
+I0426 16:38:57.670832 10426 solver.cpp:258]     Train net output #0: accuracy = 0.648438
+I0426 16:38:57.670845 10426 solver.cpp:258]     Train net output #1: softmax_loss = 2.28301 (* 1 = 2.28301 loss)
+I0426 16:38:57.670856 10426 sgd_solver.cpp:112] Iteration 59900, lr = 0.0001
+I0426 16:39:33.290874 10426 solver.cpp:468] Snapshotting to binary proto file result/model_iter_60000.caffemodel
+I0426 16:39:33.319892 10426 sgd_solver.cpp:280] Snapshotting solver state to binary proto file result/model_iter_60000.solverstate
+I0426 16:39:33.401932 10426 solver.cpp:331] Iteration 60000, loss = 2.12425
+I0426 16:39:33.401957 10426 solver.cpp:336] Optimization Done.
+I0426 16:39:36.283365 10426 caffe.cpp:250] Optimization Done.
